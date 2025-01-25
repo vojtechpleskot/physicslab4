@@ -1,0 +1,1248 @@
+1
+00:00:02,960 --> 00:00:07,680
+Dobrý den, já se jmenuju Vojtěch Pleskot a
+
+2
+00:00:05,080 --> 00:00:11,120
+provedu vás v jaderném praktiku úlohou A5
+
+3
+00:00:07,680 --> 00:00:14,400
+Spektrometrie záření alfa. Budeme prostě
+
+4
+00:00:11,120 --> 00:00:16,840
+měřit energie záření alfa. Interně tady
+
+5
+00:00:14,400 --> 00:00:18,039
+tý úloze říkáme hrnec z důvodů, které
+
+6
+00:00:16,840 --> 00:00:20,760
+jsou
+
+7
+00:00:18,039 --> 00:00:23,039
+zřejmé. No a k tomu abychom mohli měřit
+
+8
+00:00:20,760 --> 00:00:26,760
+energii záření alfa, tak potřebujeme dvě
+
+9
+00:00:23,039 --> 00:00:30,160
+věci: záření alfa a nějaký detektor. Jako
+
+10
+00:00:26,760 --> 00:00:32,679
+zdroj alfa záření nám poslouží izotop
+
+11
+00:00:30,160 --> 00:00:32,679
+americium 241
+
+12
+00:00:34,239 --> 00:00:41,320
+a v druhé fázi úlohy potom taky
+
+13
+00:00:37,600 --> 00:00:42,239
+budeme používat plutonium. Je to směs
+
+14
+00:00:41,320 --> 00:00:44,879
+dvou
+
+15
+00:00:42,239 --> 00:00:47,000
+izotopů. Náš detektor je tadlen ta
+
+16
+00:00:44,879 --> 00:00:50,199
+věcička v tom ocelovém kroužku. Je to
+
+17
+00:00:47,000 --> 00:00:52,520
+křemíkový čip. Je, jak vidíte, maličký.
+
+18
+00:00:50,199 --> 00:00:56,199
+Bohatě jeho velikost dostačuje pro naše
+
+19
+00:00:52,520 --> 00:00:58,680
+účely. Je to tenoučká destička a pro naše
+
+20
+00:00:56,199 --> 00:01:00,600
+měření, kdy máme alfa záření o energii
+
+21
+00:00:58,680 --> 00:01:02,840
+asi 5 megaelektronvoltů,
+
+22
+00:01:00,600 --> 00:01:06,280
+tak by stačilo, vlastně, aby byla tlustá
+
+23
+00:01:02,840 --> 00:01:08,759
+30 mikrometrů, protože to je tloušťka křemíku,
+
+24
+00:01:06,280 --> 00:01:11,960
+v které se alfa záření dokáže už
+
+25
+00:01:08,759 --> 00:01:15,360
+absorbovat. Tadyto, to je držák na
+
+26
+00:01:11,960 --> 00:01:16,759
+radioaktivní zdroj a tím můžeme posouvat
+
+27
+00:01:15,360 --> 00:01:19,439
+dopředu a
+
+28
+00:01:16,759 --> 00:01:22,320
+dozadu. My ovšem nebudeme měřit
+
+29
+00:01:19,439 --> 00:01:24,280
+vzdálenost mezi detektorem a zářičem,
+
+30
+00:01:22,320 --> 00:01:27,479
+protože to bychom museli zářičem
+
+31
+00:01:24,280 --> 00:01:30,439
+posouvat a není to úplně
+
+32
+00:01:27,479 --> 00:01:33,320
+praktické. My budeme měřit
+
+33
+00:01:30,439 --> 00:01:36,600
+tlak. Zářič bude furt na stejném místě
+
+34
+00:01:33,320 --> 00:01:39,759
+vzhledem k detektoru, ale v hrnci budeme
+
+35
+00:01:36,600 --> 00:01:43,520
+měnit tlak. A teďkonc nás budou zajímat
+
+36
+00:01:39,759 --> 00:01:44,640
+ionizační ztráty ve vzduchu nebo Braggova
+
+37
+00:01:43,520 --> 00:01:48,479
+křivka ve
+
+38
+00:01:44,640 --> 00:01:50,040
+vzduchu při atmosférickém tlaku. A je
+
+39
+00:01:48,479 --> 00:01:54,159
+jasné,
+
+40
+00:01:50,040 --> 00:01:56,159
+že tento parametr - efektivní vzdálenost
+
+41
+00:01:54,159 --> 00:01:59,280
+detektoru od
+
+42
+00:01:56,159 --> 00:02:01,960
+zářiče pro případ atmosférického tlaku -
+
+43
+00:01:59,280 --> 00:02:05,159
+souvisí s tím, jaký máme v hrnci tlak,
+
+44
+00:02:01,960 --> 00:02:08,200
+jednoznačně. Prostě, čím je tam nižší tlak,
+
+45
+00:02:05,159 --> 00:02:11,200
+tím je to, jako kdyby byly detektor a
+
+46
+00:02:08,200 --> 00:02:15,280
+zářič k sobě blíž při atmosférickém
+
+47
+00:02:11,200 --> 00:02:17,519
+tlaku. Tak tady křemíkový čip potom
+
+48
+00:02:15,280 --> 00:02:20,239
+budeme vyčítat. Tak tady z něj vede drát,
+
+49
+00:02:17,519 --> 00:02:22,959
+kterým vedeme signál do
+
+50
+00:02:20,239 --> 00:02:28,120
+digitizeru. Tam se analogový signál - vlastně
+
+51
+00:02:22,959 --> 00:02:31,080
+elektrický proud - převede na počet countů v
+
+52
+00:02:28,120 --> 00:02:34,160
+nějakém číselníku. Takže kdykoliv projde
+
+53
+00:02:31,080 --> 00:02:37,239
+naším křemíkovým čipem alfa částice,
+
+54
+00:02:34,160 --> 00:02:40,400
+zanechá v něm signál ve formě páru
+
+55
+00:02:37,239 --> 00:02:45,640
+elektron-díra. Ten jakožto elektrický
+
+56
+00:02:40,400 --> 00:02:49,200
+proud vyčteme. Teče do našeho
+
+57
+00:02:45,640 --> 00:02:52,800
+převodníku - anglicky digitizeru - a z
+
+58
+00:02:49,200 --> 00:02:56,519
+digitizeru pak už konvertovaný signál
+
+59
+00:02:52,800 --> 00:02:59,840
+poputuje do našeho počítače
+
+60
+00:02:56,519 --> 00:03:05,280
+a můžeme si ho prohlížet pomocí
+
+61
+00:02:59,840 --> 00:03:08,200
+programu MC2 analyzer jako histogram na
+
+62
+00:03:05,280 --> 00:03:10,200
+obrazovce. Pro naši úlohu bude klíčové
+
+63
+00:03:08,200 --> 00:03:12,519
+vidět, jak alfa záření interaguje s
+
+64
+00:03:10,200 --> 00:03:15,480
+materiálem. Ať už je to jakýkoliv
+
+65
+00:03:12,519 --> 00:03:18,519
+materiál, tak alfa částice o naší energii
+
+66
+00:03:15,480 --> 00:03:21,400
+zhruba 5 megaelektronvoltů ho bude
+
+67
+00:03:18,519 --> 00:03:24,480
+ionizovat, což znamená, že jak jím prolétá, tak
+
+68
+00:03:21,400 --> 00:03:27,760
+vykopává elektrony z jejich orbitalů a
+
+69
+00:03:24,480 --> 00:03:30,920
+prostě tím pak vznikají ionty. Ionizační
+
+70
+00:03:27,760 --> 00:03:35,000
+ztráty našeho alfa záření jsou popsatelné
+
+71
+00:03:30,920 --> 00:03:38,080
+Betheho-Blochovo formulí, která říká, kolik
+
+72
+00:03:35,000 --> 00:03:40,879
+alfa částice o dané
+
+73
+00:03:38,080 --> 00:03:44,400
+energii by zanechala v materiálu v
+
+74
+00:03:40,879 --> 00:03:48,599
+průměru svojí energie na dráze jednotkové
+
+75
+00:03:44,400 --> 00:03:52,760
+délky. Uf, to je složitý, co? Tak ještě
+
+76
+00:03:48,599 --> 00:03:54,760
+jednou Betheho-Blochova formule říká, kolik
+
+77
+00:03:52,760 --> 00:03:57,480
+alfa částice o dané
+
+78
+00:03:54,760 --> 00:04:00,560
+energii zanechá na dráze jednotkové
+
+79
+00:03:57,480 --> 00:04:02,599
+délky svojí energie.
+
+80
+00:04:00,560 --> 00:04:05,200
+Samozřejmě Betheho-Blochova formule je
+
+81
+00:04:02,599 --> 00:04:07,360
+diferenciální, takže naše částice nemusí
+
+82
+00:04:05,200 --> 00:04:10,560
+urazit dráhu jednotkové délky. Vždycky
+
+83
+00:04:07,360 --> 00:04:13,519
+urazí jenom infinitezimální kousek a poté
+
+84
+00:04:10,560 --> 00:04:16,840
+se hodnota ionizačních ztrát zase změní.
+
+85
+00:04:13,519 --> 00:04:20,440
+Něco podobného taky říká Braggova
+
+86
+00:04:16,840 --> 00:04:26,400
+křivka. Je to úplně analogický objekt
+
+87
+00:04:20,440 --> 00:04:29,960
+k Betheho-Blochově křivce. Ale Braggova křivka teda
+
+88
+00:04:26,400 --> 00:04:32,360
+říká, kolik alfa částice, která na začátku
+
+89
+00:04:29,960 --> 00:04:36,160
+měla určitou
+
+90
+00:04:32,360 --> 00:04:41,199
+energii, zanechá v materiálu svojí
+
+91
+00:04:36,160 --> 00:04:44,160
+energie, pokud už uletěla dráhu tu a tu.
+
+92
+00:04:41,199 --> 00:04:46,520
+Je jasné, že mezi Braggovou křivkou a mezi 
+
+93
+00:04:44,160 --> 00:04:48,320
+Betheho-Blochovou křivkou lze přecházet jednoduchým
+
+94
+00:04:46,520 --> 00:04:52,160
+přepočtem,
+
+95
+00:04:48,320 --> 00:04:55,360
+protože Betheho-Blochova formule říká, kolik
+
+96
+00:04:52,160 --> 00:04:58,720
+ionizačních ztrát udělá částice o dané
+
+97
+00:04:55,360 --> 00:05:00,759
+energii, a Braggova křivka říká, kolik
+
+98
+00:04:58,720 --> 00:05:03,960
+ionizačních ztrát
+
+99
+00:05:00,759 --> 00:05:06,199
+udělá částice která uletěla určitý kus a
+
+100
+00:05:03,960 --> 00:05:09,240
+na začátku měla tu a tu
+
+101
+00:05:06,199 --> 00:05:11,080
+energii. Prostě pokud víme, jakou měla
+
+102
+00:05:09,240 --> 00:05:13,759
+energii na začátku, a pokud víme, jakou
+
+103
+00:05:11,080 --> 00:05:16,520
+uletěla dráhu, tak jsme schopni dopočítat
+
+104
+00:05:13,759 --> 00:05:19,520
+jakou energii má teď. Předmětem našeho
+
+105
+00:05:16,520 --> 00:05:24,039
+měření bude Braggova křivka,
+
+106
+00:05:19,520 --> 00:05:28,800
+ale my nebudeme měřit vzdálenost, kterou
+
+107
+00:05:24,039 --> 00:05:31,919
+uletí alfa částice. My místo toho budeme
+
+108
+00:05:28,800 --> 00:05:35,400
+měřit tlak, jaký
+
+109
+00:05:31,919 --> 00:05:38,600
+je v našem
+
+110
+00:05:35,400 --> 00:05:41,639
+hrnci. Je jasné, že pokud známe tlak v
+
+111
+00:05:38,600 --> 00:05:45,680
+našem hrnci, tak tento tlak jednoznačně
+
+112
+00:05:41,639 --> 00:05:48,600
+souvisí se šířkou vzduchového sloupce
+
+113
+00:05:45,680 --> 00:05:51,800
+mezi detektorem a
+
+114
+00:05:48,600 --> 00:05:53,199
+zářičem pro případ, že by tam byl
+
+115
+00:05:51,800 --> 00:05:57,240
+atmosférický
+
+116
+00:05:53,199 --> 00:06:01,759
+tlak. Prostě, čím větší tlak,
+
+117
+00:05:57,240 --> 00:06:03,479
+tím efektivně je širší vzduchový sloupec
+
+118
+00:06:01,759 --> 00:06:05,800
+mezi zářičem a
+
+119
+00:06:03,479 --> 00:06:08,400
+detektorem. Tak a teď si představíme
+
+120
+00:06:05,800 --> 00:06:10,400
+zbytek aparatury. Protože abychom někde
+
+121
+00:06:08,400 --> 00:06:13,800
+měli nízký tlak, tak musíme odčerpat
+
+122
+00:06:10,400 --> 00:06:15,720
+vzduch. K odčerpávání vzduchu nám bude
+
+123
+00:06:13,800 --> 00:06:20,160
+sloužit
+
+124
+00:06:15,720 --> 00:06:20,160
+vývěva. Tak a můžeme jít
+
+125
+00:06:20,440 --> 00:06:26,919
+měřit. Do držáku vložíme alfa zářič. Je to
+
+126
+00:06:24,039 --> 00:06:26,919
+americium 241.
+
+127
+00:06:27,520 --> 00:06:33,599
+Tak.
+
+128
+00:06:30,880 --> 00:06:38,199
+Je v nějaké fixní vzdálenosti od
+
+129
+00:06:33,599 --> 00:06:41,599
+detektoru. Tuto vzdálenost vám pak
+
+130
+00:06:38,199 --> 00:06:44,560
+sdělím. Přiklopíme
+
+131
+00:06:41,599 --> 00:06:47,560
+hrnec a můžeme
+
+132
+00:06:44,560 --> 00:06:47,560
+odčerpávat vývěvou.
+
+133
+00:06:50,940 --> 00:06:55,970
+[Hudba]
+
+134
+00:06:52,960 --> 00:07:05,560
+Vidíme, že tlak klesá.
+
+135
+00:06:55,970 --> 00:07:07,879
+[Hudba]
+
+136
+00:07:05,560 --> 00:07:11,039
+Tak a když jsme na
+
+137
+00:07:07,879 --> 00:07:14,680
+nule, tak můžeme vývěvu
+
+138
+00:07:11,039 --> 00:07:18,400
+vypnout a v hrnci máme krásné dokonalé
+
+139
+00:07:14,680 --> 00:07:21,800
+vakuum. Tak v našem hrnci teď máme nulový
+
+140
+00:07:18,400 --> 00:07:25,599
+tlak. To znamená, že mezi zářičem
+
+141
+00:07:21,800 --> 00:07:29,199
+a detektorem není žádný vzduch. Provedeme
+
+142
+00:07:25,599 --> 00:07:29,199
+kalibrační měření.
+
+143
+00:07:34,160 --> 00:07:41,720
+A už nám tady roste pěkný
+
+144
+00:07:37,520 --> 00:07:44,800
+histogram. Tenhle histogram vzniká tak, že
+
+145
+00:07:41,720 --> 00:07:46,319
+ve chvíli, kdy náš detektor zadetekuje
+
+146
+00:07:44,800 --> 00:07:51,159
+alfa
+
+147
+00:07:46,319 --> 00:07:53,800
+částici, tak pošle signál sem. Tam se
+
+148
+00:07:51,159 --> 00:07:56,919
+převede na číslo kanálu.
+
+149
+00:07:53,800 --> 00:08:01,720
+Číslo kanálu putuje do
+
+150
+00:07:56,919 --> 00:08:04,240
+počítače a počítač jakmile vidí číslo
+
+151
+00:08:01,720 --> 00:08:06,720
+kanálu, tak do příslušného chlívečku na
+
+152
+00:08:04,240 --> 00:08:10,400
+ose x přičte
+
+153
+00:08:06,720 --> 00:08:13,360
+jedničku. Vidíte, že tady nám přibývají
+
+154
+00:08:10,400 --> 00:08:16,680
+alfa částice poměrně rychle, už jsme na
+
+155
+00:08:13,360 --> 00:08:16,680
+několika tisících alfa
+
+156
+00:08:17,360 --> 00:08:22,879
+částic. Teď budeme čekat takových 10
+
+157
+00:08:20,599 --> 00:08:27,319
+minut, až se nabere slušná statistika,
+
+158
+00:08:22,879 --> 00:08:31,440
+abychom mohli určit polohu píku americia
+
+159
+00:08:27,319 --> 00:08:31,440
+a provést kalibraci.
+
+160
+00:08:48,600 --> 00:08:54,640
+Zastavili jsme měření. Teďkonc kdykoliv
+
+161
+00:08:52,120 --> 00:08:57,519
+do detektoru přijde alfa částice, tak už
+
+162
+00:08:54,640 --> 00:09:00,839
+ji ignorujeme a do našeho spektra
+
+163
+00:08:57,519 --> 00:09:05,160
+nepřispívá. Nasbírali jsme krásný pík.
+
+164
+00:09:00,839 --> 00:09:09,800
+Je to teda pík alfa záření z americia 241.
+
+165
+00:09:05,160 --> 00:09:13,880
+Vidíme ho zde a s jeho pomocí
+
+166
+00:09:09,800 --> 00:09:16,760
+provedeme kalibraci. Protože pro případ,
+
+167
+00:09:13,880 --> 00:09:20,399
+že mezi zářičem a detektorem není žádný
+
+168
+00:09:16,760 --> 00:09:23,480
+vzduch, tak známe perfektně z tabulek
+
+169
+00:09:20,399 --> 00:09:27,480
+hodnotu energie, na které by tento pík
+
+170
+00:09:23,480 --> 00:09:31,200
+měl sedět. To znamená, že příslušnému
+
+171
+00:09:27,480 --> 00:09:33,839
+kanálu přiřadíme tuto energii
+
+172
+00:09:31,200 --> 00:09:36,959
+a nulovému kanálu přiřadíme nulovou
+
+173
+00:09:33,839 --> 00:09:40,600
+energii. Pojďme na to.
+
+174
+00:09:36,959 --> 00:09:40,600
+Přidáme pík.
+
+175
+00:09:50,279 --> 00:09:55,800
+Přidáme nulový kanál.
+
+176
+00:10:00,519 --> 00:10:04,560
+Přidáme těžiště našeho píku.
+
+177
+00:10:04,600 --> 00:10:12,440
+Přečteme si z tabulek jeho
+
+178
+00:10:08,240 --> 00:10:12,440
+energii 5485 tečka
+
+179
+00:10:14,360 --> 00:10:17,360
+74
+
+180
+00:10:18,880 --> 00:10:21,880
+kevů.
+
+181
+00:10:22,399 --> 00:10:27,839
+Ok enable
+
+182
+00:10:24,720 --> 00:10:31,079
+calibration. Vidíte, že teď tam, kde je
+
+183
+00:10:27,839 --> 00:10:35,320
+kurzor ta černá čára, tak tam nám to
+
+184
+00:10:31,079 --> 00:10:39,839
+ukazuje už ne číslo kanálu, ale energii v
+
+185
+00:10:35,320 --> 00:10:41,800
+v kiloelektronvoltech. Kalibrace je provedená a
+
+186
+00:10:39,839 --> 00:10:44,399
+teďkonc můžeme
+
+187
+00:10:41,800 --> 00:10:48,519
+přistoupit k určení rozlišení našeho
+
+188
+00:10:44,399 --> 00:10:52,360
+detektoru. Tak kdybychom měli dokonalý
+
+189
+00:10:48,519 --> 00:10:54,279
+detektor, který měří vždycky přesně, který
+
+190
+00:10:52,360 --> 00:10:57,040
+jako číslo vyplivne vždycky přesně tu
+
+191
+00:10:54,279 --> 00:11:00,120
+energii, jakou má dané
+
+192
+00:10:57,040 --> 00:11:02,240
+záření, tak bychom tady neviděli žádnou
+
+193
+00:11:00,120 --> 00:11:03,839
+tlustou čáru. Viděli bychom tam tenoučkou
+
+194
+00:11:02,240 --> 00:11:06,880
+čáru delta funkci.
+
+195
+00:11:03,839 --> 00:11:10,240
+Dokonalý detektor ovšem nemáme.
+
+196
+00:11:06,880 --> 00:11:12,200
+Proto on nám tuto delta funkci
+
+197
+00:11:10,240 --> 00:11:16,800
+rozmývá svojí rozlišovací schopností.
+
+198
+00:11:12,200 --> 00:11:16,800
+Nebo ještě lépe řečeno neschopností.
+
+199
+00:11:17,040 --> 00:11:22,440
+Takže místo delta funkce
+
+200
+00:11:19,519 --> 00:11:27,200
+prostě vidíme čáru, která je docela tlustá.
+
+201
+00:11:22,440 --> 00:11:31,040
+Celý tento objekt je nafitovatelný gaussiánem
+
+202
+00:11:27,200 --> 00:11:34,120
+sedícím na polynomu druhého stupně.
+
+203
+00:11:31,040 --> 00:11:38,240
+Ten polynom je tam proto, že kromě našeho
+
+204
+00:11:34,120 --> 00:11:41,880
+signálu, kterým je alfa záření z americia
+
+205
+00:11:38,240 --> 00:11:43,519
+o dané energii, máme vždycky v detektoru
+
+206
+00:11:41,880 --> 00:11:47,639
+nějaké
+
+207
+00:11:43,519 --> 00:11:50,959
+pozadí. Tak polynom nám fituje pozadí.
+
+208
+00:11:47,639 --> 00:11:54,839
+V tabulce už vidíme krásné údaje
+
+209
+00:11:50,959 --> 00:11:59,760
+o nafitovaném píku. Jeho střed,
+
+210
+00:11:54,839 --> 00:12:03,560
+jeho šířku v polovině výšky, to bude důležitý údaj,
+
+211
+00:11:59,760 --> 00:12:05,600
+jeho plochu -to znamená, kolik alfa
+
+212
+00:12:03,560 --> 00:12:08,440
+částic jsme v něm
+
+213
+00:12:05,600 --> 00:12:11,720
+zaznamenali. Tak teď už máme provedenou
+
+214
+00:12:08,440 --> 00:12:14,000
+kalibraci, máme údaje k určení
+
+215
+00:12:11,720 --> 00:12:18,360
+rozlišení našeho detektoru a můžeme
+
+216
+00:12:14,000 --> 00:12:20,040
+přistoupit k měření Braggovy křivky.
+
+217
+00:12:18,360 --> 00:12:24,839
+Tak do hrnce teď připustím trochu vzduchu,
+
+218
+00:12:20,040 --> 00:12:27,040
+zvýším tam tlak, což efektivně znamená,
+
+219
+00:12:24,839 --> 00:12:31,920
+že zvyšuju šířku vzduchového sloupce o
+
+220
+00:12:27,040 --> 00:12:31,920
+atmosférickém tlaku mezi zdrojem záření a detektorem.
+
+221
+00:12:44,320 --> 00:12:51,760
+Takovýchto kroků uděláme 10
+
+222
+00:12:47,920 --> 00:12:54,440
+a při každém z nich si naměříme
+
+223
+00:12:51,760 --> 00:12:57,199
+polohu našeho píku, která se bude
+
+224
+00:12:54,440 --> 00:12:59,800
+posouvat směrem k nule. Čím víc vzduchu
+
+225
+00:12:57,199 --> 00:13:04,079
+mezi detektorem a zářičem,
+
+226
+00:12:59,800 --> 00:13:07,079
+tím více energie naše alfa částice z americia
+
+227
+00:13:04,079 --> 00:13:07,079
+ztrácí.
+
+228
+00:13:09,160 --> 00:13:13,880
+Takže spouštíme měření.
+
+229
+00:13:29,639 --> 00:13:33,199
+Tak teď zastavím měření.
+
+230
+00:13:33,279 --> 00:13:38,959
+Přečtu si údaje o našem píku.
+
+231
+00:13:36,240 --> 00:13:42,079
+Vidím, že jeho střed je na jiné energii.
+
+232
+00:13:38,959 --> 00:13:44,770
+Připustím další vzduch a budu vše
+
+233
+00:13:42,079 --> 00:13:53,210
+opakovat.
+
+234
+00:13:44,770 --> 00:13:53,210
+[Hudba]
+
+235
+00:13:56,480 --> 00:13:59,649
+[Hudba]
+
+236
+00:14:10,279 --> 00:14:15,959
+Takhle postupně získáme 10 bodů do naší
+
+237
+00:14:13,759 --> 00:14:20,199
+křivky závislosti
+
+238
+00:14:15,959 --> 00:14:22,399
+energie alfa záření na
+
+239
+00:14:20,199 --> 00:14:25,759
+tloušťce vzduchového sloupce
+
+240
+00:14:22,399 --> 00:14:27,279
+o atmosférickém tlaku mezi detektorem a
+
+241
+00:14:25,759 --> 00:14:31,279
+zářičem.
+
+242
+00:14:27,279 --> 00:14:34,759
+Samozřejmě, co reálně měříme, je, ještě
+
+243
+00:14:31,279 --> 00:14:37,120
+jednou, závislost energie alfa záření na
+
+244
+00:14:34,759 --> 00:14:37,120
+tlaku vzduchu.
+
+245
+00:14:55,800 --> 00:15:02,959
+Tak máme další hodnotu, v pořadí
+
+246
+00:14:59,240 --> 00:15:02,959
+šestou, do naší závislosti.
+
+247
+00:15:10,440 --> 00:15:17,720
+Sedmá hodnota. Pík se nám neustále
+
+248
+00:15:14,120 --> 00:15:17,720
+posouvá blíže a blíže k nule.
+
+249
+00:15:26,320 --> 00:15:33,560
+Osmá hodnota.
+
+250
+00:15:30,560 --> 00:15:33,560
+[Hudba]
+
+251
+00:15:33,870 --> 00:15:40,080
+[Hudba]
+
+252
+00:15:43,360 --> 00:15:46,529
+[Hudba]
+
+253
+00:16:03,160 --> 00:16:08,160
+Tak a teď měření na poslední hodnotě
+
+254
+00:16:05,360 --> 00:16:10,759
+tlaku - už na atmosférickém
+
+255
+00:16:08,160 --> 00:16:13,360
+Postupovali jsme po
+
+256
+00:16:10,759 --> 00:16:17,959
+krocích od nuly do atmosférického
+
+257
+00:16:13,360 --> 00:16:17,959
+tlaku, v krocích po deseti kilopascalech.
+
+258
+00:16:24,880 --> 00:16:31,560
+Poslední naměřená hodnota. Nyní máme v
+
+259
+00:16:28,600 --> 00:16:33,720
+naší tabulce 11 hodnot - pro každou
+
+260
+00:16:31,560 --> 00:16:37,319
+hodnotu tlaku vzduchu. Šli jsme po
+
+261
+00:16:33,720 --> 00:16:41,560
+krocích po deseti kilopascalech, tak pro každou hodnotu
+
+262
+00:16:37,319 --> 00:16:41,560
+tlaku máme energii našeho píku.
+
+263
+00:16:41,720 --> 00:16:48,600
+Z naší tabulky si můžeme snadno
+
+264
+00:16:45,399 --> 00:16:51,440
+spočítat velikost ionizačních ztrát v
+
+265
+00:16:48,600 --> 00:16:55,160
+závislosti na tom, jakým vzduchovým
+
+266
+00:16:51,440 --> 00:16:58,959
+sloupcem musela naše alfa částice
+
+267
+00:16:55,160 --> 00:17:02,040
+projít, neboli máme proměřenou Braggovu křivku.
+
+268
+00:16:58,959 --> 00:17:04,839
+Tak tím máme splněné skoro
+
+269
+00:17:02,040 --> 00:17:06,160
+všechny úkoly až na poslední. Neboli
+
+270
+00:17:04,839 --> 00:17:09,319
+jdeme na plutonium.
+
+271
+00:17:06,160 --> 00:17:12,180
+Vyměníme teda americium za
+
+272
+00:17:09,319 --> 00:17:15,279
+plutonium.
+
+273
+00:17:12,180 --> 00:17:15,279
+[Hudba]
+
+274
+00:17:34,720 --> 00:17:38,600
+A zase budeme odčerpávat vzduch.
+
+275
+00:17:49,160 --> 00:17:53,240
+Pouštíme poslední měření
+
+276
+00:17:53,880 --> 00:18:00,320
+A vzhledem k tomu, že náš
+
+277
+00:17:57,600 --> 00:18:04,320
+plutoniový zářič je připraven z dvou
+
+278
+00:18:00,320 --> 00:18:09,280
+izotopů, tak uvidíme dva píky.
+
+279
+00:18:04,320 --> 00:18:11,840
+A podle aktivit těchto píků nebo - jinými
+
+280
+00:18:09,280 --> 00:18:16,400
+slovy podle množství alfa částic v
+
+281
+00:18:11,840 --> 00:18:20,159
+každém z těchto píků - a podle doby života
+
+282
+00:18:16,400 --> 00:18:22,200
+daných dvou plutoniových izotopů určíme
+
+283
+00:18:20,159 --> 00:18:23,440
+relativní zastoupení těchto izotopů v
+
+284
+00:18:22,200 --> 00:18:26,960
+našem vzorku.
+
+285
+00:18:23,440 --> 00:18:30,360
+Tak máme nabrané spektrum plutonia.
+
+286
+00:18:26,960 --> 00:18:34,760
+Tady vidí víme krásný pík, velký.
+
+287
+00:18:30,360 --> 00:18:37,919
+Tady druhý pík od druhého izotopu, malý,
+
+288
+00:18:34,760 --> 00:18:40,400
+ale je tam.
+
+289
+00:18:37,919 --> 00:18:43,760
+Oba píky označíme a můžeme si
+
+290
+00:18:40,400 --> 00:18:46,039
+přečíst jejich plochy spolu s dalšími
+
+291
+00:18:43,760 --> 00:18:50,039
+údaji
+
+292
+00:18:46,039 --> 00:18:54,640
+nutnými pro určení statistické chyby.
+
+293
+00:18:50,039 --> 00:18:57,720
+Takže ještě jednou. Teď máme plochy
+
+294
+00:18:54,640 --> 00:19:00,919
+dvou píků od dvou izotopů plutonia.
+
+295
+00:18:57,720 --> 00:19:04,559
+Z tabulek si zjistíme jejich
+
+296
+00:19:00,919 --> 00:19:07,600
+doby života, neboli poločasy
+
+297
+00:19:04,559 --> 00:19:10,000
+rozpadu, a můžeme určit relativní
+
+298
+00:19:07,600 --> 00:19:13,559
+zastoupení těchto dvou izotopů v našem vzorku plutonia.
+
+299
+00:19:10,000 --> 00:19:15,840
+Tak tímto jsme si prošli
+
+300
+00:19:13,559 --> 00:19:18,640
+všechny kroky které se dělají u úlohy
+
+301
+00:19:15,840 --> 00:19:22,000
+číslo A5 Spektrometrie záření alfa.
+
+302
+00:19:18,640 --> 00:19:22,799
+Bohužel nemůžete být zde a udělat
+
+303
+00:19:22,000 --> 00:19:26,320
+si je sami.
+
+304
+00:19:22,799 --> 00:19:28,960
+Je to smutné, ale v dnešní korodobě se
+
+305
+00:19:26,320 --> 00:19:31,159
+nedá nic jiného dělat. Tím, že zde
+
+306
+00:19:28,960 --> 00:19:33,880
+nemůžete být na místě, tak si samozřejmě
+
+307
+00:19:31,159 --> 00:19:38,120
+nemůžete naměřit svoje vlastní data.
+
+308
+00:19:33,880 --> 00:19:41,799
+Dostanete je od nás - týmu lidí z praktik.
+
+309
+00:19:38,120 --> 00:19:45,480
+Loučím se s vámi. Doufám, že se
+
+310
+00:19:41,799 --> 00:19:48,480
+někdy uvidíme naživo. Pokud ne, tak hodně
+
+311
+00:19:45,480 --> 00:19:52,480
+štěstí s úlohou A5 i s dalšími úlohami.
+
+312
+00:19:48,480 --> 00:19:52,480
+Na shledanou!
+
