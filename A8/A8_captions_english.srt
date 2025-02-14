@@ -1,0 +1,422 @@
+﻿1
+00:00:04,000 --> 00:00:09,639
+Hello and welcome to the Trója part of 
+
+2
+00:00:06,480 --> 00:00:12,200
+Practitioner 4! My name is Hedvika 
+Gedeonová
+
+3
+00:00:09,639 --> 00:00:15,440
+and I'm Tadeáš Dohnal and together 
+
+4
+00:00:12,200 --> 00:00:19,600
+we will take you through problem number 8 
+of beta radiation absorption.
+
+5
+00:00:15,440 --> 00:00:21,960
+I will be your model student and I will 
+be 
+
+6
+00:00:19,600 --> 00:00:26,920
+your teacher. Also the one who corrects 
+the 
+
+7
+00:00:21,960 --> 00:00:26,920
+protocols. Let's do it! 
+
+8
+00:00:32,599 --> 00:00:36,600
+First, let's take a look at our 
+
+9
+00:00:39,960 --> 00:00:47,879
+apparatus. Here at the bottom is our 
+
+10
+00:00:43,399 --> 00:00:50,480
+radiator. This is strontium 90, a beta 
+
+11
+00:00:47,879 --> 00:00:54,719
+emitter, which emits beta radiation or 
+
+12
+00:00:50,480 --> 00:00:57,680
+electrons. And as you can see, there's a 
+
+13
+00:00:54,719 --> 00:01:00,359
+hole drilled in the plastic here to 
+
+14
+00:00:57,680 --> 00:01:04,079
+direct the electrons 
+
+15
+00:01:00,359 --> 00:01:04,079
+
+16
+00:01:04,280 --> 00:01:09,840
+upwards in a fairly narrow beam. Well, 
+here we have the Geiger-Mueller detector. 
+
+17
+00:01:08,200 --> 00:01:13,159
+Is that the thing they were walking around 
+
+18
+00:01:09,840 --> 00:01:15,360
+Chernobyl with? How it clicked and 
+they measured the 
+
+19
+00:01:13,159 --> 00:01:18,159
+radioactivity? It's basically the same 
+type of 
+
+20
+00:01:15,360 --> 00:01:21,520
+detector, except this one 
+
+21
+00:01:18,159 --> 00:01:25,280
+doesn't click. The signal from the 
+Geiger-Mueller 
+
+22
+00:01:21,520 --> 00:01:28,240
+detector goes through here to the 
+analyser, which 
+
+23
+00:01:25,280 --> 00:01:31,040
+processes the signal and then passes 
+
+24
+00:01:28,240 --> 00:01:34,000
+the information to the computer about how 
+many 
+
+25
+00:01:31,040 --> 00:01:36,479
+electrons or other background signals 
+we've detected.
+
+26
+00:01:34,000 --> 00:01:36,479
+
+
+27
+00:01:39,040 --> 00:01:44,360
+In the first part of this problem,
+
+28
+00:01:42,079 --> 00:01:46,799
+we'll look at the characteristics of the 
+Geiger-Mueller 
+
+29
+00:01:44,360 --> 00:01:50,439
+detector. Here I've borrowed 
+
+30
+00:01:46,799 --> 00:01:53,560
+a specimen from another assignment. If you 
+
+31
+00:01:50,439 --> 00:01:57,799
+look, you might see that there's
+
+32
+00:01:53,560 --> 00:02:01,719
+a thin wire in the middle that forms 
+the anode, and then 
+
+33
+00:01:57,799 --> 00:02:06,880
+around the sort of cylinder surface or 
+that shell 
+
+34
+00:02:01,719 --> 00:02:09,720
+forms the cathode. We're going to apply a 
+voltage to those and we 
+
+35
+00:02:06,880 --> 00:02:11,920
+want to actually measure how many of those 
+signals 
+
+36
+00:02:09,720 --> 00:02:14,319
+we're going to see depending on that 
+applied 
+
+37
+00:02:11,920 --> 00:02:18,080
+voltage. So we're going to vary the 
+voltage and measure the 
+
+38
+00:02:14,319 --> 00:02:21,400
+number of signals and the goal is to 
+determine the 
+
+39
+00:02:18,080 --> 00:02:23,920
+voltage that's optimal for the next 
+
+40
+00:02:21,400 --> 00:02:28,760
+measurement. Now we'll set the measurement 
+time to 
+
+41
+00:02:23,920 --> 00:02:35,160
+20 seconds, then the spectrum and plateau 
+option, and from 
+
+42
+00:02:28,760 --> 00:02:37,480
+400 V to 800 V in 5 V increments. In 
+total, it 
+
+43
+00:02:35,160 --> 00:02:40,599
+will take almost half an hour, but it will 
+
+44
+00:02:37,480 --> 00:02:40,599
+actually measure the whole thing by 
+itself. 
+Half an hour? 
+
+45
+00:02:45,760 --> 00:02:50,879
+In the second part of this problem, we're 
+going to measure 
+
+46
+00:02:49,000 --> 00:02:54,360
+the actual absorption 
+
+47
+00:02:50,879 --> 00:02:56,920
+curve. We have these small metal plates for this here. 
+
+48
+00:02:54,360 --> 00:02:59,080
+If you look, it says areal density. 
+
+49
+00:02:56,920 --> 00:03:01,280
+Of course, they're made of aluminum, which 
+isn't exactly the 
+
+50
+00:02:59,080 --> 00:03:03,440
+hardest metal, and they've been around for 
+years. 
+
+51
+00:03:01,280 --> 00:03:09,480
+So they may be a little tatty. 
+
+52
+00:03:03,440 --> 00:03:14,239
+We'll take the small metal plate, put it between the 
+
+53
+00:03:09,480 --> 00:03:17,440
+emitter and the detector and close the 
+door. 
+
+54
+00:03:14,239 --> 00:03:20,680
+Close the door? Just now? Then I'm already 
+
+55
+00:03:17,440 --> 00:03:22,799
+irradiated anyway, right? 
+
+56
+00:03:20,680 --> 00:03:24,879
+The emitter's probably not that strong. 
+It's more about 
+
+57
+00:03:22,799 --> 00:03:28,480
+not picking up any background from 
+outside. 
+
+58
+00:03:24,879 --> 00:03:31,400
+And we were okay with that first job? 
+
+59
+00:03:28,480 --> 00:03:33,480
+Well, we were concerned with how the 
+
+60
+00:03:31,400 --> 00:03:35,200
+number of signals varied with voltage, but 
+we didn't
+
+61
+00:03:33,480 --> 00:03:37,840
+
+62
+00:03:35,200 --> 00:03:41,120
+really care what the origin of the 
+signal was. Now we'd just want 
+
+63
+00:03:37,840 --> 00:03:46,519
+the electrons or the beta 
+
+64
+00:03:41,120 --> 00:03:49,599
+radiation from the strontium if possible. 
+
+65
+00:03:46,519 --> 00:03:53,560
+So we'll close the door, we'll start 
+taking measurements, each measurement will 
+be 
+
+66
+00:03:49,599 --> 00:03:58,040
+100 seconds long, and when it runs out, 
+we'll 
+
+67
+00:03:53,560 --> 00:04:00,599
+open the door again and insert another 
+small plate. 
+
+68
+00:03:58,040 --> 00:04:02,799
+We'll try not to 
+
+69
+00:04:00,599 --> 00:04:04,319
+move the previous plates, and we'll just 
+keep 
+
+70
+00:04:02,799 --> 00:04:06,439
+putting more and more plates in. 
+
+71
+00:04:04,319 --> 00:04:10,159
+We're not going to take them out just for 
+
+72
+00:04:06,439 --> 00:04:12,360
+consistency of geometry. And then when we 
+put in 
+
+73
+00:04:10,159 --> 00:04:14,040
+all the ones described, then at the end, 
+we'll 
+
+74
+00:04:12,360 --> 00:04:16,639
+add this 
+
+75
+00:04:14,040 --> 00:04:20,280
+thick one, which no electron 
+
+76
+00:04:16,639 --> 00:04:22,479
+from strontium should go through anymore. 
+But that doesn't mean 
+
+77
+00:04:20,280 --> 00:04:24,280
+we won't see any signal, because 
+
+78
+00:04:22,479 --> 00:04:27,080
+electrons can also bounce off the 
+
+79
+00:04:24,280 --> 00:04:29,880
+chamber wall and arrive at the detector 
+without 
+
+80
+00:04:27,080 --> 00:04:31,360
+ever having to go through the absorber. 
+
+81
+00:04:29,880 --> 00:04:34,840
+So in that sense, some experimental 
+
+82
+00:04:31,360 --> 00:04:34,840
+background will probably still be there. 
+
+83
+00:04:38,520 --> 00:04:43,240
+The third part of the measurement will be 
+done 
+
+84
+00:04:41,440 --> 00:04:47,680
+again without the 
+
+85
+00:04:43,240 --> 00:04:50,199
+absorber. We will take a total of 765 
+measurements, 
+
+86
+00:04:47,680 --> 00:04:53,840
+each with a duration of 1 second. In each 
+
+87
+00:04:50,199 --> 00:04:55,560
+measurement, we'll measure the number of 
+electrons from 
+
+88
+00:04:53,840 --> 00:04:59,000
+strontium decay that have reached the 
+
+89
+00:04:55,560 --> 00:05:01,039
+detector. And the goal is to see whether 
+
+90
+00:04:59,000 --> 00:05:04,280
+
+91
+00:05:01,039 --> 00:05:09,120
+
+92
+00:05:04,280 --> 00:05:11,000
+or not the number of electrons from those 
+measurements is distributed according to a 
+Poisson distribution, as we would expect. 
+
+93
+00:05:09,120 --> 00:05:13,759
+I hope you enjoyed our tutorial, and I'll
+
+94
+00:05:11,000 --> 00:05:16,960
+see you again after the coronavirus! 
+I look forward to 
+
+95
+00:05:13,759 --> 00:05:16,960
+seeing your protocols! 

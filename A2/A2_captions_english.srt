@@ -1,0 +1,833 @@
+﻿1
+00:00:00,830 --> 00:00:04,149
+A2 Study of gas detectors 
+
+2
+00:00:06,399 --> 00:00:10,719
+Hello, my name is Ingrid Knapová, 
+
+3
+00:00:08,760 --> 00:00:14,360
+we are in the nuclear physics practice 
+
+4
+00:00:10,719 --> 00:00:17,679
+in Troja and I will guide you through the 
+A2 task, which is 
+
+5
+00:00:14,360 --> 00:00:17,679
+the study of gas detectors. 
+
+5
+00:00:17,679 --> 00:00:20,920
+The Ionization Chamber Apparatus 
+
+6
+00:00:20,920 --> 00:00:25,439
+I will now introduce you to 
+
+7
+00:00:23,119 --> 00:00:28,000
+the apparatus that we will be using in the 
+first 
+
+8
+00:00:25,439 --> 00:00:30,400
+part of this measurement. It is 
+
+9
+00:00:28,000 --> 00:00:32,239
+a picoampermeter, which will serve as a 
+
+10
+00:00:30,400 --> 00:00:35,600
+voltage source, and we will also use it 
+to measure 
+
+11
+00:00:32,239 --> 00:00:38,160
+ionization currents, and connected to it,
+
+12
+00:00:35,600 --> 00:00:40,960
+according to the diagram in the study 
+text, is an ionization 
+
+13
+00:00:38,160 --> 00:00:43,920
+chamber. The ionization chamber is 
+actually an 
+
+14
+00:00:40,960 --> 00:00:46,600
+air capacitor. It has two electrodes, 
+
+15
+00:00:43,920 --> 00:00:49,360
+one of which is sliding, and I can 
+
+16
+00:00:46,600 --> 00:00:52,160
+adjust the distance between them to 
+
+17
+00:00:49,360 --> 00:00:52,160
+1 to 6 cm. 
+
+18
+00:00:56,399 --> 00:01:02,800
+We have two emitters. Both of them 
+
+19
+00:00:59,600 --> 00:01:05,239
+are plutonium 239, and they have different 
+
+20
+00:01:02,800 --> 00:01:07,320
+activity, and our first task is to 
+
+21
+00:01:05,239 --> 00:01:09,799
+find out by measurement which of these 
+emitters is 
+
+22
+00:01:07,320 --> 00:01:15,000
+more active. We do this by taking 
+
+23
+00:01:09,799 --> 00:01:17,320
+one of them and placing it on the plate of 
+
+24
+00:01:15,000 --> 00:01:20,200
+the condenser. Alpha particles 
+
+25
+00:01:17,320 --> 00:01:23,520
+pass through the air, they ionize 
+along the way, they 
+
+26
+00:01:20,200 --> 00:01:26,360
+form cation-electron pairs, and if we have 
+
+27
+00:01:23,520 --> 00:01:28,799
+some non-zero voltage applied, 
+
+28
+00:01:26,360 --> 00:01:30,439
+these ion pairs are sucked to 
+
+29
+00:01:28,799 --> 00:01:33,280
+the electrodes and we can measure the 
+
+30
+00:01:30,439 --> 00:01:35,320
+ionization current, and this ionization 
+current is 
+
+31
+00:01:33,280 --> 00:01:40,479
+proportional to the activity of 
+
+32
+00:01:35,320 --> 00:01:44,200
+the emitter. I set a distance of 6 cm and 
+
+33
+00:01:40,479 --> 00:01:46,520
+a voltage of 500 V. And why these 
+
+34
+00:01:44,200 --> 00:01:49,200
+values? That's what you'll find out if you 
+
+35
+00:01:46,520 --> 00:01:49,200
+stay with us.
+
+36
+00:01:50,360 --> 00:01:56,680
+So on the display we now see the 
+
+37
+00:01:53,280 --> 00:02:00,039
+set voltage, which is 500 V, and the 
+measured 
+
+38
+00:01:56,680 --> 00:02:01,600
+ionisation current in nanoamps. So 
+something like 
+
+39
+00:02:00,039 --> 00:02:04,560
+12.4 picoamps 
+
+40
+00:02:01,600 --> 00:02:07,920
+in this case.
+
+41
+00:02:04,560 --> 00:02:10,239
+We can see that this current fluctuates 
+quite strongly. 
+
+42
+00:02:07,920 --> 00:02:13,239
+You can think about why that is, 
+
+43
+00:02:13,560 --> 00:02:19,440
+or compare the magnitude of those 
+fluctuations to the instrument error. 
+
+44
+00:02:16,840 --> 00:02:22,480
+Replace the emitters and repeat the same 
+
+45
+00:02:19,440 --> 00:02:24,760
+measurement for the other one. Now we see 
+
+46
+00:02:22,480 --> 00:02:28,120
+that for the other emitter the values of 
+the 
+
+47
+00:02:24,760 --> 00:02:27,120
+ionization current are much smaller. 
+
+48
+00:02:27,120 --> 00:02:31,840
+Measure the V-A characteristics of the 
+ionization chamber in the range 0-500 V at 
+different electrode distances of 1-6 cm. 
+Use the more intense emitter. 
+Determine the characteristic areas of the 
+V-A dependence. Determine the optimum 
+voltage and the optimum electrode spacing 
+of the ionisation chamber. 
+
+49
+00:02:32,959 --> 00:02:39,920
+In problem number two, we are to measure 
+the voltammogram 
+
+50
+00:02:37,000 --> 00:02:42,800
+characteristic for a more intense emitter. 
+
+51
+00:02:39,920 --> 00:02:45,440
+That is, we are going to set the voltage 
+
+52
+00:02:42,800 --> 00:02:47,840
+in the range from 0 to 500 V and we are 
+going to measure the 
+
+53
+00:02:45,440 --> 00:02:50,879
+ionization current similarly to the one in 
+the first 
+
+54
+00:02:47,840 --> 00:02:53,480
+problem. And by looking at the measured 
+curve,
+
+55
+00:02:50,879 --> 00:02:56,200
+we can see why we 
+
+56
+00:02:53,480 --> 00:02:58,080
+just used a voltage of 500 V for problem 
+number one. 
+
+57
+00:02:56,200 --> 00:03:03,280
+We'll do this for two different 
+
+58
+00:02:58,080 --> 00:03:05,519
+plate distances, for a distance of 2 cm 
+and 6 cm. 
+
+59
+00:03:03,280 --> 00:03:07,599
+Alpha particles have a range in the air on 
+the order of 
+
+60
+00:03:05,519 --> 00:03:10,239
+centimetres, so with the help of our 
+
+61
+00:03:07,599 --> 00:03:13,040
+apparatus, where we can vary the distance 
+of 
+
+62
+00:03:10,239 --> 00:03:16,360
+the plates, we can estimate the range of 
+the 
+
+63
+00:03:13,040 --> 00:03:19,200
+plutonium alpha particles by measurement. 
+We do this by 
+
+64
+00:03:16,360 --> 00:03:23,200
+placing the emitter on a plate, setting a 
+
+65
+00:03:19,200 --> 00:03:25,120
+constant voltage, again 500 V, and 
+
+66
+00:03:23,200 --> 00:03:28,760
+measuring the ionisation current at 
+different 
+
+67
+00:03:25,120 --> 00:03:31,640
+plate spacings. We can go from 1 to 6 cm 
+
+68
+00:03:28,760 --> 00:03:34,799
+in 1 cm increments. 
+
+69
+00:03:31,640 --> 00:03:37,920
+If we plot the dependence of the 
+
+70
+00:03:34,799 --> 00:03:40,280
+ionization current on the distance of the 
+plates, we 
+
+71
+00:03:37,920 --> 00:03:43,879
+can 
+
+72
+00:03:40,280 --> 00:03:46,239
+estimate the range of plutonium-239 alpha 
+particles 
+
+73
+00:03:43,879 --> 00:03:48,480
+in the air from the shape of this 
+dependence. And it will also be 
+
+74
+00:03:46,239 --> 00:03:50,840
+clearer to us why we 
+
+75
+00:03:48,480 --> 00:03:53,960
+used a distance of 6 cm for problem number 
+one. 
+
+76
+00:03:50,840 --> 00:03:53,960
+Measure the distance of the leakage 
+current from the voltage in the range 
+0-500 V at the optimum electrode spacing. 
+
+77 00:03:55,720 --> 00:04:00,599
+It would be interesting to see what we measure if
+
+78
+00:03:58,879 --> 00:04:02,680
+no emitter is placed inside.
+
+79
+00:04:00,599 --> 00:04:05,599
+
+80
+00:04:02,680 --> 00:04:07,879
+So I can try to take this 
+
+81
+00:04:05,599 --> 00:04:11,640
+emitter out, put it back in the box, 
+
+82
+00:04:07,879 --> 00:04:15,440
+see that there's nothing inside, set the 
+
+83
+00:04:11,640 --> 00:04:19,279
+voltage again, say 500 V,
+
+84
+00:04:15,440 --> 00:04:28,720
+and start the measurement. 
+
+85
+00:04:19,279 --> 00:04:31,039
+[Music] 
+
+86
+00:04:28,720 --> 00:04:32,639
+We can see that even though there is 
+
+87
+00:04:31,039 --> 00:04:35,600
+
+88
+00:04:32,639 --> 00:04:38,759
+no emitter placed in the ionization 
+chamber, the current that we are 
+measuring is not 
+
+89
+00:04:35,600 --> 00:04:40,500
+zero. You can think about that, why that is. 
+
+90
+00:04:38,759 --> 00:04:44,550
+
+91
+00:04:40,500 --> 00:04:44,550
+Measure the activity ratio of the attached 
+emitters, estimate their absolute 
+activities (the mean energy to form an ion 
+pair in air is 35 eV). 
+Determine the range of alpha particles in 
+the air. 
+
+92
+00:04:45,840 --> 00:04:51,759
+One of our next tasks is to 
+
+93
+00:04:48,720 --> 00:04:55,039
+estimate the absolute activities of the 
+two 
+
+94
+00:04:51,759 --> 00:04:58,639
+emitters. We know that the measured 
+ionization current 
+
+95
+00:04:55,039 --> 00:05:01,479
+is made up of electrons produced by 
+
+96
+00:04:58,639 --> 00:05:04,600
+ionization of the alpha particle in the 
+
+97
+00:05:01,479 --> 00:05:06,680
+air. If we know the energy required 
+
+98
+00:05:04,600 --> 00:05:09,000
+to form one ion 
+
+99
+00:05:06,680 --> 00:05:11,840
+pair, and we know the kinetic energy of 
+
+100
+00:05:09,000 --> 00:05:15,520
+the alpha particles flying out, we can 
+
+101
+00:05:11,840 --> 00:05:19,880
+calculate how many ion pairs are formed 
+
+102
+00:05:15,520 --> 00:05:23,880
+as one alpha particle flies by before it 
+stops.
+
+103
+00:05:19,880 --> 00:05:26,319
+This information, together 
+
+104
+00:05:23,880 --> 00:05:28,319
+with the measured flux,
+
+105
+00:05:26,319 --> 00:05:31,639
+should be enough for us to 
+
+106
+00:05:28,319 --> 00:05:31,639
+estimate the absolute activity under 
+simplified conditions. 
+
+107
+00:05:32,880 --> 00:05:37,919
+However, this simplistic reasoning does 
+not take into account the 
+
+108
+00:05:35,240 --> 00:05:40,360
+geometric factor - that we are 
+
+109
+00:05:37,919 --> 00:05:43,120
+not detecting all the alpha particles 
+
+110
+00:05:40,360 --> 00:05:45,240
+that are emitted from this source. We can 
+see that it 
+
+111
+00:05:43,120 --> 00:05:48,280
+is in a protective envelope, so 
+
+112
+00:05:45,240 --> 00:05:51,400
+we don't detect 
+
+113
+00:05:48,280 --> 00:05:55,360
+anything at all within this half-space 
+angle. We're putting it on one 
+
+114
+00:05:51,400 --> 00:05:58,639
+electrode like that, so we're actually 
+detecting less than half of the alpha 
+particles that are emitted. 
+
+115
+00:05:58,639 --> 00:06:04,560
+Actually, it's still less than half the 
+solid 
+
+116
+00:06:01,479 --> 00:06:06,880
+angle because of the way the emitter is in 
+the 
+
+117
+00:06:04,560 --> 00:06:10,120
+containment or because of the 
+
+118
+00:06:06,880 --> 00:06:13,970
+geometrical arrangement of the apparatus, 
+but 
+
+119
+00:06:10,120 --> 00:06:17,529
+for our purposes the factor of one half is 
+sufficient. 
+
+120
+00:06:13,970 --> 00:06:17,529
+The Geiger-Mueller detector apparatus 
+
+121
+00:06:19,919 --> 00:06:24,919
+So these were the tasks related to the 
+
+122
+00:06:22,680 --> 00:06:26,880
+ionization chamber. In the second part 
+
+123
+00:06:24,919 --> 00:06:29,080
+we will discuss the characteristics of the 
+Geiger-Mueller 
+
+124
+00:06:29,080 --> 00:06:32,840
+detector. We will again 
+
+125
+00:06:29,080 --> 00:06:35,560
+use the same plutonium 239 emitter and 
+work 
+
+126
+00:06:32,840 --> 00:06:38,400
+with a different apparatus. We have a 
+
+127
+00:06:35,560 --> 00:06:41,759
+Geiger-Mueller detector at our disposal. 
+
+128
+00:06:38,400 --> 00:06:44,400
+The ORTEC voltage source will be connected 
+to it, and 
+
+129
+00:06:41,759 --> 00:06:47,440
+
+130
+00:06:44,400 --> 00:06:50,360
+we will examine the signal from the 
+Geiger-Mueller detector on an 
+oscilloscope. We will now take a 
+
+131
+00:06:47,440 --> 00:06:52,479
+closer look at the Geiger-Mueller 
+detector. 
+
+132
+00:06:50,360 --> 00:06:55,039
+It is made up of two electrodes. Inside is a
+
+133
+00:06:52,479 --> 00:06:58,520
+thin wire, this is the anode. The cathode is
+
+134
+00:06:55,039 --> 00:07:01,520
+this cylinder around and it's filled with 
+an inert 
+
+135
+00:06:58,520 --> 00:07:03,400
+gas. We put the Geiger-Mueller detector in 
+
+136
+00:07:01,520 --> 00:07:07,759
+the apparatus, 
+
+137
+00:07:03,400 --> 00:07:07,759
+put a protective 
+
+138
+00:07:08,319 --> 00:07:14,680
+cover on it, and put the alpha emitter on 
+top. 
+
+139
+00:07:12,520 --> 00:07:16,840
+The alpha particles that are emitted from 
+the emitter 
+
+140
+00:07:14,680 --> 00:07:19,479
+will ionize the environment, and the 
+
+141
+00:07:16,840 --> 00:07:22,639
+same effects will occur as in the 
+ionization chamber. 
+
+142
+00:07:21,100 --> 00:07:25,400
+Using an oscilloscope, measure the 
+dependence of the amplitude of the 
+electrical pulse of the Geiger-Mueller 
+(GM) detector on the voltage in the range 
+0-1500 V. 
+
+143
+00:07:25,400 --> 00:07:31,879
+Turn on the voltage source and turn on the 
+oscilloscope to 
+
+144
+00:07:29,520 --> 00:07:36,680
+look at 
+
+145
+00:07:31,879 --> 00:07:39,800
+the signals, and measure the voltammogram.
+
+146
+00:07:36,680 --> 00:07:41,680
+Technically, this will be a 
+
+147
+00:07:39,800 --> 00:07:44,759
+volt-volt characteristic, because on the 
+
+148
+00:07:41,680 --> 00:07:47,000
+oscilloscope we'll see the signals in 
+
+149
+00:07:44,759 --> 00:07:48,560
+units of voltage, in volts, but since 
+
+150
+00:07:47,000 --> 00:07:51,720
+we know that the internal resistance of 
+this 
+
+151
+00:07:48,560 --> 00:07:54,400
+oscilloscope is 1 megaohm, we 
+
+152
+00:07:51,720 --> 00:07:57,599
+can use Ohm's law to 
+
+153
+00:07:54,400 --> 00:07:59,879
+back-calculate that voltage to current. 
+However, we're
+
+154
+00:07:57,599 --> 00:08:02,400
+not concerned with the absolute values of
+
+155
+00:07:59,879 --> 00:08:04,080
+that current in this problem, we're just 
+concerned with the shape of that 
+
+156
+00:08:02,400 --> 00:08:04,960
+characteristic so that we can 
+
+157
+00:08:04,960 --> 00:08:07,680
+compare it,
+
+158
+00:08:04,960 --> 00:08:10,720
+so that's why we don't mind this. 
+
+159
+00:08:07,680 --> 00:08:13,080
+What happens when we set the voltage 
+
+160
+00:08:10,720 --> 00:08:13,080
+to 100 V? 
+
+161
+00:08:13,919 --> 00:08:19,319
+Nothing. 
+
+162 00:08:16,240 --> 00:08:21,720
+What happens when we set the voltage to 200 V?
+
+163
+00:08:19,319 --> 00:08:26,159
+Still nothing. 
+
+164
+00:08:21,720 --> 00:08:30,460
+And this will continue 
+
+165
+00:08:26,159 --> 00:08:45,669
+until the voltage is approximately 800 V. 
+
+166
+00:08:30,460 --> 00:08:45,669
+The million-dollar question. 
+What happens at 800 volts? 
+A) Nothing
+B) The oscilloscope explodes
+C) Donald Trump's head explodes
+Send incorrect answers by text message in the 
+form QUESTION,X to 999 99. 
+*The cost of the text message is 10 000 
+Reichsmarks 
+
+167
+00:08:46,240 --> 00:08:51,080
+At 800 V we start to see some first 
+signals. 
+
+168
+00:08:53,080 --> 00:09:00,079
+On the oscilloscope screen we see the 
+
+169
+00:08:56,560 --> 00:09:02,760
+time waveform of the signal from the 
+Geiger-Mueller detector, which 
+
+170
+00:09:00,079 --> 00:09:05,959
+corresponds to the passage of an alpha 
+particle through 
+
+171
+00:09:02,760 --> 00:09:08,360
+the medium. This is how we measure the 
+whole voltammogram.
+
+172
+00:09:05,959 --> 00:09:11,720
+We always set the 
+
+173
+00:09:08,360 --> 00:09:15,040
+voltage at the source and read the 
+
+174
+00:09:11,720 --> 00:09:18,959
+amplitude of the signal on the 
+oscilloscope. Now we set the 
+
+175
+00:09:15,040 --> 00:09:21,160
+voltage to the maximum, at 1500 V, and we 
+see that 
+
+176
+00:09:18,959 --> 00:09:23,519
+even for this maximum value the amplitudes of
+
+177
+00:09:21,160 --> 00:09:26,560
+the signals are not the same. 
+
+178
+00:09:23,519 --> 00:09:29,360
+This information, together with a 
+
+179
+00:09:26,560 --> 00:09:30,680
+comparison with the theoretical dependence,
+
+180
+00:09:29,360 --> 00:09:34,399
+will help us to identify 
+
+181
+00:09:30,680 --> 00:09:36,880
+the characteristic region of the 
+voltammetric dependence. 
+
+182
+00:09:34,399 --> 00:09:39,200
+Unfortunately you 
+
+183
+00:09:36,880 --> 00:09:42,320
+were not able to measure this task 
+
+184
+00:09:39,200 --> 00:09:44,600
+yourself due to the current situation, 
+but we hope you at least enjoyed 
+
+185
+00:09:42,320 --> 00:09:47,600
+this short introduction to the secrets of 
+gas 
+
+186
+00:09:44,600 --> 00:09:47,600
+detectors. 

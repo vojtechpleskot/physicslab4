@@ -1,0 +1,760 @@
+1
+00:00:00,830 --> 00:00:04,149
+A2 Štúdia plynových detektorov
+
+2
+00:00:06,399 --> 00:00:10,719
+Dobrý deň, volám sa Ingrid Knapová,
+
+3
+00:00:08,760 --> 00:00:14,360
+nachádzame sa v praktiku jaderne fyziky
+
+4
+00:00:10,719 --> 00:00:17,679
+v Troji a budem vás sprevádzať úlohou A2,
+
+5
+00:00:14,360 --> 00:00:17,679
+čo je štúdium plynových detektorov.
+
+5
+00:00:17,679 --> 00:00:20,920
+Prístroj
+Ionizačná komora
+
+6
+00:00:20,920 --> 00:00:25,439
+Teraz vám predstavím
+
+7
+00:00:23,119 --> 00:00:28,000
+aparatúru, ktorú budeme používať v prvej
+
+8
+00:00:25,439 --> 00:00:30,400
+časti tohto merania. Je to
+
+9
+00:00:28,000 --> 00:00:32,239
+pikoampérmeter, ktorý bude slúžiť ako zdroj
+
+10
+00:00:30,400 --> 00:00:35,600
+napätia, a zároveň ním budeme merať
+
+11
+00:00:32,239 --> 00:00:38,160
+ionizačné prúdy, a k nemu je zapojená
+
+12
+00:00:35,600 --> 00:00:40,960
+podľa schémy v študijnom texte, ionizačná
+
+13
+00:00:38,160 --> 00:00:43,920
+komora. Ionizačná komora je vlastne
+
+14
+00:00:40,960 --> 00:00:46,600
+vzduchový kondenzátor. Má dve elektródy,
+
+15
+00:00:43,920 --> 00:00:49,360
+pričom jedna z nich je posuvná, a môžem
+
+16
+00:00:46,600 --> 00:00:52,160
+nastavovať vzdialenosti medzi nimi na
+
+17
+00:00:49,360 --> 00:00:52,160
+1 až 6 cm.
+
+18
+00:00:56,399 --> 00:01:02,800
+Máme k dispozícii dva žiariče. Obidva
+
+19
+00:00:59,600 --> 00:01:05,239
+sú plutónium 239, pričom majú rôznu
+
+20
+00:01:02,800 --> 00:01:07,320
+aktivitu, a našou prvou úlohou je meraním
+
+21
+00:01:05,239 --> 00:01:09,799
+zistiť, ktorý z týchto žiaričov je
+
+22
+00:01:07,320 --> 00:01:15,000
+aktívnejší. To urobíme tak, že vezmeme
+
+23
+00:01:09,799 --> 00:01:17,320
+jeden z nich a položíme ho na dosku
+
+24
+00:01:15,000 --> 00:01:20,200
+kondenzátora. Alfa častice, ktoré
+
+25
+00:01:17,320 --> 00:01:23,520
+prechádzajú vzduchom, po ceste ionizujú,
+
+26
+00:01:20,200 --> 00:01:26,360
+vytvárajú páry katión-elektrón a ak máme
+
+27
+00:01:23,520 --> 00:01:28,799
+priložené nejaké nenulové napätie, tak
+
+28
+00:01:26,360 --> 00:01:30,439
+tieto iónové páry sú odsávané k
+
+29
+00:01:28,799 --> 00:01:33,280
+elektródam a my môžeme merať
+
+30
+00:01:30,439 --> 00:01:35,320
+ionizačný prúd, a tento ionizačný prúd je
+
+31
+00:01:33,280 --> 00:01:40,479
+úmerný aktivite
+
+32
+00:01:35,320 --> 00:01:44,200
+žiariča. Ja nastavím vzdialenosť 6 cm a
+
+33
+00:01:40,479 --> 00:01:46,520
+napätie 500 V. A prečo zrovna tieto
+
+34
+00:01:44,200 --> 00:01:49,200
+hodnoty? Takto sa dozviete ak s nami
+
+35
+00:01:46,520 --> 00:01:49,200
+ostanete aj
+
+36
+00:01:50,360 --> 00:01:56,680
+ďalej. Takže na displeji teraz vidíme
+
+37
+00:01:53,280 --> 00:02:00,039
+nastavené napätie, čo je 500 V a meraný
+
+38
+00:01:56,680 --> 00:02:01,600
+ionizačný prúd v nanoampéroch. Čiže niečo ako
+
+39
+00:02:00,039 --> 00:02:04,560
+12,4 pikoampérů
+
+40
+00:02:01,600 --> 00:02:07,920
+v tomto
+
+41
+00:02:04,560 --> 00:02:10,239
+prípade. Vidíme, že tento prúd pomerne silne fluktuuje.
+
+42
+00:02:07,920 --> 00:02:13,239
+Môžete sa nad tým zamyslieť, že prečo je tomu tak,
+
+43
+00:02:13,560 --> 00:02:19,440
+prípadne veľkosť týchto fluktuácií porovnať s chybou prístroja.
+
+44
+00:02:16,840 --> 00:02:22,480
+Vymeníme žiariče a zopakujeme to isté
+
+45
+00:02:19,440 --> 00:02:24,760
+meranie aj pre druhý z nich. Teraz vidíme,
+
+46
+00:02:22,480 --> 00:02:28,120
+že pre ten druhý žiarič sú hodnoty
+
+47
+00:02:24,760 --> 00:02:27,120
+ionizačného prúdu oveľa menšie.
+
+48
+00:02:27,120 --> 00:02:31,840
+Zmerajte V-A charakteristiky ionizačnej komory v rozsahu 0-500 V
+pri rôznych vzdialenostiach elektród 1-6 cm. Použite intenzívnejší žiarič.
+Určite charakteristické oblasti závislosti V-A. Určite optimálne napätie a
+optimálnu vzdialenosť elektród ionizačnej komory.
+
+49
+00:02:32,959 --> 00:02:39,920
+V úlohe číslo dva máme namerať voltampérovú
+
+50
+00:02:37,000 --> 00:02:42,800
+charakteristiku pre intenzívnejší žiarič.
+
+51
+00:02:39,920 --> 00:02:45,440
+To znamená, že budeme nastavovať napätie
+
+52
+00:02:42,800 --> 00:02:47,840
+v rozsahu od 0 do 500 V a budeme merať
+
+53
+00:02:45,440 --> 00:02:50,879
+ionizačný prúd podobne ako pri tej prvej
+
+54
+00:02:47,840 --> 00:02:53,480
+úlohe. A pri pohľade na nameranú krivku
+
+55
+00:02:50,879 --> 00:02:56,200
+zistíme, prečo sme pri úlohe číslo jedna
+
+56
+00:02:53,480 --> 00:02:58,080
+použili zrovna napätie 500 V.
+
+57
+00:02:56,200 --> 00:03:03,280
+Toto urobíme pre dve rôzne vzdialenosti
+
+58
+00:02:58,080 --> 00:03:05,519
+platní, pre vzdialenosť 2 cm a 6 cm.
+
+59
+00:03:03,280 --> 00:03:07,599
+Alfa častice majú dosah vo vzduchu rádovo
+
+60
+00:03:05,519 --> 00:03:10,239
+centimetre, takže s pomocou našej
+
+61
+00:03:07,599 --> 00:03:13,040
+aparatúry, kde môžeme meniť vzdialenosť
+
+62
+00:03:10,239 --> 00:03:16,360
+platní, môžeme meraním odhadnúť dosah
+
+63
+00:03:13,040 --> 00:03:19,200
+alfa častíc plutónia. To urobíme tak, že
+
+64
+00:03:16,360 --> 00:03:23,200
+umiestnime žiarič na platňu, nastavíme
+
+65
+00:03:19,200 --> 00:03:25,120
+konštantné napätie, znovu 500 V, a budeme
+
+66
+00:03:23,200 --> 00:03:28,760
+merať ionizačný prúd pri rôznej
+
+67
+00:03:25,120 --> 00:03:31,640
+vzdialenosti platní. Môžeme ísť od 1 do 6 cm
+
+68
+00:03:28,760 --> 00:03:34,799
+s krokom 1 cm.
+
+69
+00:03:31,640 --> 00:03:37,920
+Keď si vykreslíme závislosť
+
+70
+00:03:34,799 --> 00:03:40,280
+ionizačného prúdu na vzdialenosti platní,
+
+71
+00:03:37,920 --> 00:03:43,879
+tak z tvaru tejto závislosti môžeme
+
+72
+00:03:40,280 --> 00:03:46,239
+odhadnúť dosah alfa častíc plutónia 239
+
+73
+00:03:43,879 --> 00:03:48,480
+vo vzduchu. A taktiež nám už bude
+
+74
+00:03:46,239 --> 00:03:50,840
+jasnejšie, že prečo sme pri úlohe číslo
+
+75
+00:03:48,480 --> 00:03:53,960
+jedna použili vzdialenosť 6 cm.
+
+76
+00:03:50,840 --> 00:03:53,960
+Zmerajte vzdialenosť zvodového prúdu od napätia
+v rozsahu 0-500 V pri optimálnej vzdialenosti elektród.
+
+77
+00:03:55,720 --> 00:04:00,599
+Bolo by zaujímavé sa pozrieť, čo
+
+78
+00:03:58,879 --> 00:04:02,680
+budeme merať, ak vnútri nebude
+
+79
+00:04:00,599 --> 00:04:05,599
+umiestnený žiadny
+
+80
+00:04:02,680 --> 00:04:07,879
+žiarič. Takže môžem skúsiť vybrať tento
+
+81
+00:04:05,599 --> 00:04:11,640
+žiarič, odložiť ho nazad do krabičky,
+
+82
+00:04:07,879 --> 00:04:15,440
+vidíme, že vnútri nič nie je, nastavím si
+
+83
+00:04:11,640 --> 00:04:19,279
+znovu napätie, napríklad tých 500 V
+
+84
+00:04:15,440 --> 00:04:28,720
+a spustím meranie.
+
+85
+00:04:19,279 --> 00:04:31,039
+[Hudba]
+
+86
+00:04:28,720 --> 00:04:32,639
+Vidíme, že napriek tomu, že v
+
+87
+00:04:31,039 --> 00:04:35,600
+ionizačnej komore nie je umiestnený
+
+88
+00:04:32,639 --> 00:04:38,759
+žiaden žiarič, tak prúd, ktorý meriame, nie
+
+89
+00:04:35,600 --> 00:04:40,500
+je nulový. Môžete sa zamyslieť nad tým, že 
+
+90
+00:04:38,759 --> 00:04:44,550
+prečo je tomu tak.
+
+91
+00:04:40,500 --> 00:04:44,550
+Zmerajte pomer aktivít pripojených žiaričov, odhadnite ich absolútne aktivity
+(stredná energia na vytvorenie iónového páru vo vzduchu je 35 eV).
+Určite rozsah častíc alfa vo vzduchu.
+
+92
+00:04:45,840 --> 00:04:51,759
+Jednou z našich ďalších úloh je
+
+93
+00:04:48,720 --> 00:04:55,039
+odhadnúť absolútne aktivity týchto dvoch
+
+94
+00:04:51,759 --> 00:04:58,639
+žiaričov. Vieme, že meraný ionizačný prúd
+
+95
+00:04:55,039 --> 00:05:01,479
+je tvorený elektrónmi, ktoré vznikli pri
+
+96
+00:04:58,639 --> 00:05:04,600
+ionizácii alfa častice vo
+
+97
+00:05:01,479 --> 00:05:06,680
+vzduchu. Ak poznáme energiu, ktorá je
+
+98
+00:05:04,600 --> 00:05:09,000
+potrebná na vytvorenie jedného iónového
+
+99
+00:05:06,680 --> 00:05:11,840
+páru, a poznáme kinetickú energiu
+
+100
+00:05:09,000 --> 00:05:15,520
+vyletujúcich alfa častíc, tak dokážeme
+
+101
+00:05:11,840 --> 00:05:19,880
+spočítať, koľko iónových párov sa vytvorí
+
+102
+00:05:15,520 --> 00:05:23,880
+pri prelete jednej alfa častice, kým sa
+
+103
+00:05:19,880 --> 00:05:26,319
+zastaví. Tieto informácie by nám spolu
+
+104
+00:05:23,880 --> 00:05:28,319
+s meraným prúdom za
+
+105
+00:05:26,319 --> 00:05:31,639
+zjednodušených podmienok mali stačiť k
+
+106
+00:05:28,319 --> 00:05:31,639
+odhadu absolútnej aktivity.
+
+107
+00:05:32,880 --> 00:05:37,919
+Táto zjednodušená úvaha ale neberie do
+
+108
+00:05:35,240 --> 00:05:40,360
+úvahy geometrický faktor - že my
+
+109
+00:05:37,919 --> 00:05:43,120
+nedetekuje všetky alfa častice, ktoré sú
+
+110
+00:05:40,360 --> 00:05:45,240
+vyžarované z tohto zdroja. Vidíme, že on
+
+111
+00:05:43,120 --> 00:05:48,280
+je v ochrannom obale, takže do tejto
+
+112
+00:05:45,240 --> 00:05:51,400
+polovice priestorového uhlu nezadetekujeme vôbec
+
+113
+00:05:48,280 --> 00:05:55,360
+nič. My ho takto pokladáme na jednu
+
+114
+00:05:51,400 --> 00:05:58,639
+elektródu, takže reálne detekujeme menej ako polovicu vyžiarených alfa častíc.
+
+115
+00:05:58,639 --> 00:06:04,560
+V skutočnosti je to ešte menej ako polovica priestorového
+
+116
+00:06:01,479 --> 00:06:06,880
+uhlu vďaka tomu, ako je žiarič v
+
+117
+00:06:04,560 --> 00:06:10,120
+ochrannom obale, alebo vďaka
+
+118
+00:06:06,880 --> 00:06:13,970
+geometrickému usporiadaniu aparatúry, ale
+
+119
+00:06:10,120 --> 00:06:17,529
+pre naše úvahy postačí faktor jedna polovica.
+
+120
+00:06:13,970 --> 00:06:17,529
+Prístroj Geiger-Muellerov detektor
+
+121
+00:06:19,919 --> 00:06:24,919
+Tak to boli úlohy týkajúce sa
+
+122
+00:06:22,680 --> 00:06:26,880
+ionizačnej komory. V druhej časti sa
+
+123
+00:06:24,919 --> 00:06:29,080
+budeme venovať charakteristike Geiger-Muellerovho
+
+124
+00:06:29,080 --> 00:06:32,840
+detektoru. Budeme znovu
+
+125
+00:06:29,080 --> 00:06:35,560
+používať ten istý žiarič plutónium 239 a
+
+126
+00:06:32,840 --> 00:06:38,400
+budeme pracovať s inou aparatúrou. Máme k
+
+127
+00:06:35,560 --> 00:06:41,759
+dispozícii Geiger-Muellerov detektor.
+
+128
+00:06:38,400 --> 00:06:44,400
+K nemu bude zapojený zdroj napätia ORTEC a
+
+129
+00:06:41,759 --> 00:06:47,440
+Signál z Geiger-Muellerovho detektoru
+
+130
+00:06:44,400 --> 00:06:50,360
+budeme skúmať na osciloskope. Teraz sa
+
+131
+00:06:47,440 --> 00:06:52,479
+bližšie pozrieme na Geiger-Muellerov detektor.
+
+132
+00:06:50,360 --> 00:06:55,039
+Je tvorený dvomi elektródami. Vnútri je
+
+133
+00:06:52,479 --> 00:06:58,520
+tenký drátik, to je anóda. Katóda je
+
+134
+00:06:55,039 --> 00:07:01,520
+tento valec okolo a je vyplnený inertným
+
+135
+00:06:58,520 --> 00:07:03,400
+plynom. Geiger-Muellerov detektor vložíme
+
+136
+00:07:01,520 --> 00:07:07,759
+do aparatúry,
+
+137
+00:07:03,400 --> 00:07:07,759
+dáme naňho ochranný
+
+138
+00:07:08,319 --> 00:07:14,680
+obal a alfa žiarič položíme na vrch.
+
+139
+00:07:12,520 --> 00:07:16,840
+Alfa častice, ktoré sú emitované zo žiariča,
+
+140
+00:07:14,680 --> 00:07:19,479
+budú ionizovať prostredie, a bude
+
+141
+00:07:16,840 --> 00:07:22,639
+dochádzať k rovnakým efektom, ako v ionizačnej komore.
+
+142
+00:07:21,100 --> 00:07:25,400
+Pomocou osciloskopu zmerajte závislosť amplitúdy elektrického impulzu
+Geiger-Muellerovho detektora (GM) od napätia v rozsahu 0-1500 V.
+
+143
+00:07:25,400 --> 00:07:31,879
+Zapneme zdroj napätia a zapneme osciloskop,
+
+144
+00:07:29,520 --> 00:07:36,680
+kde sa budeme dívať na
+
+145
+00:07:31,879 --> 00:07:39,800
+signály, a budeme merať voltampérovú
+
+146
+00:07:36,680 --> 00:07:41,680
+charakteristiku. Technicky pôjde o
+
+147
+00:07:39,800 --> 00:07:44,759
+volt-voltovú charakteristiku, pretože na
+
+148
+00:07:41,680 --> 00:07:47,000
+osciloskope budeme vidieť signály v
+
+149
+00:07:44,759 --> 00:07:48,560
+jednotkách napätia, vo voltoch, ale keďže
+
+150
+00:07:47,000 --> 00:07:51,720
+my vieme, že vnútorný odpor tohto
+
+151
+00:07:48,560 --> 00:07:54,400
+osciloskopu je 1 megaohm, tak pomocou
+
+152
+00:07:51,720 --> 00:07:57,599
+Ohmovho zákona si môžeme toto napätie
+
+153
+00:07:54,400 --> 00:07:59,879
+spätne prepočítať na prúd. Nám však v
+
+154
+00:07:57,599 --> 00:08:02,400
+tejto úlohe nejde o absolútne hodnoty
+
+155
+00:07:59,879 --> 00:08:04,080
+toho prúdu, ale ide nám iba o tvar tejto
+
+156
+00:08:02,400 --> 00:08:04,960
+charakteristiky, aby sme ho vedeli
+
+157
+00:08:04,080 --> 00:08:07,680
+porovnať,
+
+158
+00:08:04,960 --> 00:08:10,720
+tak preto nám toto nevadí.
+
+159
+00:08:07,680 --> 00:08:13,080
+Čo sa stane, keď nastavíme napätie
+
+160
+00:08:10,720 --> 00:08:13,080
+100 V?
+
+161
+00:08:13,919 --> 00:08:19,319
+Nič.
+162
+00:08:16,240 --> 00:08:21,720
+Čo sa stane keď nastavíme napätie
+
+163
+00:08:19,319 --> 00:08:26,159
+200 V? Stále nič.
+
+164
+00:08:21,720 --> 00:08:30,460
+A takto to bude pokračovať
+
+165
+00:08:26,159 --> 00:08:45,669
+až do napätia približne 800 V.
+
+166
+00:08:30,460 --> 00:08:45,669
+Otázka za milión dolárov.
+Čo sa stane pri napätí 800 voltov?
+A) nič
+B) Osciloskop exploduje
+C) Donaldovi Trumpovi vybuchne hlava
+Pošlite nesprávne odpovede textovou správou v tvare OTÁZKA,X na číslo 999 99.
+* Cena SMS je 10 000 ríšskych mariek
+
+167
+00:08:46,240 --> 00:08:51,080
+Pri 800 V začíname vidieť nejaké prvé signály.
+
+168
+00:08:53,080 --> 00:09:00,079
+Na obrazovke osciloskopu vidíme
+
+169
+00:08:56,560 --> 00:09:02,760
+časový priebeh signálu z Geiger-Muellerovho detektora,
+
+170
+00:09:00,079 --> 00:09:05,959
+ktorý zodpovedá priechodu alfa častice
+
+171
+00:09:02,760 --> 00:09:08,360
+prostredím. Takto premeriame celú voltampérovú
+
+172
+00:09:05,959 --> 00:09:11,720
+charakteristiku. Vždy na zdroji nastavíme
+
+173
+00:09:08,360 --> 00:09:15,040
+napätie a na osciloskope odčítame
+
+174
+00:09:11,720 --> 00:09:18,959
+amplitúdu signálu. Teraz nastavíme
+
+175
+00:09:15,040 --> 00:09:21,160
+napätie na maximum, na 1500 V a vidíme, že
+
+176
+00:09:18,959 --> 00:09:23,519
+aj pre túto maximálnu hodnotu amplitúdy
+
+177
+00:09:21,160 --> 00:09:26,560
+signálov nie sú rovnaké.
+
+178
+00:09:23,519 --> 00:09:29,360
+Táto informácia spolu s
+
+179
+00:09:26,560 --> 00:09:30,680
+porovnaním s teoretickou závislosťou nám
+
+180
+00:09:29,360 --> 00:09:34,399
+pomôže pri identifikácii
+
+181
+00:09:30,680 --> 00:09:36,880
+charakteristickej oblasti voltampérovej závislosti.
+
+182
+00:09:34,399 --> 00:09:39,200
+Túto úlohu ste si bohužiaľ
+
+183
+00:09:36,880 --> 00:09:42,320
+kvôli súčasnej situácii nemohli namerať
+
+184
+00:09:39,200 --> 00:09:44,600
+sami, ale dúfame, že ste si aspoň užili
+
+185
+00:09:42,320 --> 00:09:47,600
+tento krátky úvod do tajov plynových
+
+186
+00:09:44,600 --> 00:09:47,600
+detektorov.

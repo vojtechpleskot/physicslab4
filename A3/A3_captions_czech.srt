@@ -1,0 +1,1596 @@
+1
+00:00:00,920 --> 00:00:03,720
+[Hudba]
+
+2
+00:00:02,720 --> 00:00:10,480
+Vítám
+
+3
+00:00:03,720 --> 00:00:15,680
+vás při úloze číslo tři praktika čtyři na ÚČJF,
+
+4
+00:00:10,480 --> 00:00:17,400
+kde budeme měřit charakteristické
+
+5
+00:00:15,680 --> 00:00:20,760
+záření
+
+6
+00:00:17,400 --> 00:00:23,519
+kovů, charakteristické spektrum, a budeme
+
+7
+00:00:20,760 --> 00:00:26,640
+se snažit tyhle kovy tímhle
+
+8
+00:00:23,519 --> 00:00:30,840
+identifikovat. Navíc pokusíme se u
+
+9
+00:00:26,640 --> 00:00:33,559
+jednoho dvou vzorků určit i
+
+10
+00:00:30,840 --> 00:00:37,079
+hmotnostní nebo objemové
+
+11
+00:00:33,559 --> 00:00:40,760
+složení ve slitině více
+
+12
+00:00:37,079 --> 00:00:44,400
+prvků. K tomu potřebujeme
+
+13
+00:00:40,760 --> 00:00:47,160
+zářič, použijeme
+
+14
+00:00:44,400 --> 00:00:50,559
+[Hudba]
+
+15
+00:00:47,160 --> 00:00:54,160
+americium. K tomu potřebujeme vzorky,
+
+16
+00:00:50,559 --> 00:00:55,680
+které máme načíslované, a k tomu
+
+17
+00:00:54,160 --> 00:00:58,039
+potřebujeme
+
+18
+00:00:55,680 --> 00:01:01,320
+detektor, který je
+
+19
+00:00:58,039 --> 00:01:03,720
+chlazený tekutým dusíkem
+
+20
+00:01:01,320 --> 00:01:08,280
+a který
+
+21
+00:01:03,720 --> 00:01:13,159
+je senzitivní právě
+
+22
+00:01:08,280 --> 00:01:16,159
+na očekávané spektrum energií
+
+23
+00:01:13,159 --> 00:01:16,159
+záření
+
+24
+00:01:16,400 --> 00:01:24,079
+rentgenového. Takže jeden z nultých kroků
+
+25
+00:01:19,799 --> 00:01:25,840
+je celou aparaturu si zkalibrovat.
+
+26
+00:01:24,079 --> 00:01:30,400
+Pro ten
+
+27
+00:01:25,840 --> 00:01:36,560
+účel umístíme zdroj napřímo
+
+28
+00:01:30,400 --> 00:01:39,680
+k detektoru a oddálíme ho
+
+29
+00:01:36,560 --> 00:01:42,439
+kvůli snížení jeho příliš vysoké
+
+30
+00:01:39,680 --> 00:01:44,719
+intenzity v našem případě. V tomto
+
+31
+00:01:42,439 --> 00:01:48,000
+uspořádání nabereme charakteristické
+
+32
+00:01:44,719 --> 00:01:49,840
+spektrum a
+
+33
+00:01:48,000 --> 00:01:54,479
+pomocí
+
+34
+00:01:49,840 --> 00:01:57,240
+známého rozdělení nebo známého
+
+35
+00:01:54,479 --> 00:02:00,360
+spektra prvku
+
+36
+00:01:57,240 --> 00:02:05,799
+americium detekujeme některé
+
+37
+00:02:00,360 --> 00:02:05,799
+charakteristické čáry a podle nich
+
+38
+00:02:10,319 --> 00:02:15,879
+nakalibrujeme software, abychom měřili ne čísla kanálů
+odpovídající nějaké
+
+39
+00:02:13,120 --> 00:02:17,440
+energii, ale abychom těmhle číslům kanálů
+
+40
+00:02:15,879 --> 00:02:22,640
+přiřadili nějakou
+
+41
+00:02:17,440 --> 00:02:26,720
+energii. Další, co je důležité vědět, je, že
+
+42
+00:02:22,640 --> 00:02:28,840
+atomy, když přeskakují z jedné hladiny na
+
+43
+00:02:26,720 --> 00:02:30,440
+druhou, po jejich
+
+44
+00:02:28,840 --> 00:02:33,599
+excitaci vyzařují
+
+45
+00:02:30,440 --> 00:02:36,280
+nějakou energii. Abychom se v tom líp
+
+46
+00:02:33,599 --> 00:02:41,040
+vyznali, tak
+
+47
+00:02:36,280 --> 00:02:44,920
+vyzařované pásy nebo přeskoky jsou
+
+48
+00:02:41,040 --> 00:02:49,319
+standardně nějak značené. Káčkem značíme
+
+49
+00:02:44,920 --> 00:02:51,840
+přechod
+
+50
+00:02:49,319 --> 00:02:56,080
+z libovolné hladiny na hladinu K. Když k
+
+51
+00:02:51,840 --> 00:03:00,280
+tomu přidáme označení K_alfa, K_beta, tak
+
+52
+00:02:56,080 --> 00:03:05,360
+K_alfa je z první vyšší, to znamená z L,
+
+53
+00:03:00,280 --> 00:03:09,159
+na K. Když dáme beta, je to z M na K. Když
+
+54
+00:03:05,360 --> 00:03:11,480
+čáru označíme jako L, tak se jedná o
+
+55
+00:03:09,159 --> 00:03:16,560
+přeskok z nějaké vyšší energetické
+
+56
+00:03:11,480 --> 00:03:19,720
+hladiny na hladinu L. A zase alfa, beta
+
+57
+00:03:16,560 --> 00:03:24,480
+nám označuje, jestli je to z první
+
+58
+00:03:19,720 --> 00:03:25,959
+nejbližší úrovně, z M, nebo z další vyšší,
+
+59
+00:03:24,480 --> 00:03:31,280
+z N, a tak
+
+60
+00:03:25,959 --> 00:03:37,000
+dále. Co je důležité si uvědomit dál,
+
+61
+00:03:31,280 --> 00:03:40,319
+že mezi K_alfa a K_beta obecně
+
+62
+00:03:37,000 --> 00:03:45,760
+platí jistá závislost. V závislosti na
+
+63
+00:03:40,319 --> 00:03:49,820
+atomovém čísle je poměr počtu
+
+64
+00:03:45,760 --> 00:03:52,120
+výskytů mezi alfa a beta
+
+65
+00:03:49,820 --> 00:04:00,040
+
+66
+00:03:52,120 --> 00:04:05,879
+víceméně daný a varíruje mezi nula až 0,3.
+
+67
+00:04:00,040 --> 00:04:11,040
+V každém případě výskyt čar alfa
+
+68
+00:04:05,879 --> 00:04:13,680
+je významně vyšší než čar beta.
+
+69
+00:04:11,040 --> 00:04:18,239
+To znamená, nejčastější přeskoky které
+
+70
+00:04:13,680 --> 00:04:22,120
+registrujeme jsou alfové, pak až betové,
+
+71
+00:04:18,239 --> 00:04:24,840
+v poměru jedna ku třem a horším. Další důležité,
+
+72
+00:04:22,120 --> 00:04:29,080
+co je potřeba si uvědomit, že nejčastější
+
+73
+00:04:24,840 --> 00:04:32,440
+přeskok, který registrujeme, je přeskok K,
+
+74
+00:04:29,080 --> 00:04:36,280
+to znamená na základní
+
+75
+00:04:32,440 --> 00:04:39,160
+hladinu. Četnost přeskoků na hladinu L a na
+
+76
+00:04:36,280 --> 00:04:44,080
+další je zase
+
+77
+00:04:39,160 --> 00:04:47,800
+nižší. Takže to je k nějaké relaci mezi
+
+78
+00:04:44,080 --> 00:04:52,000
+jednotlivými plochami. Pak je důležité, že
+
+79
+00:04:47,800 --> 00:04:55,560
+máme k dispozici tabulky. Pro každý prvek
+
+80
+00:04:52,000 --> 00:05:00,280
+s jeho atomovým číslem máme seznamy
+
+81
+00:04:55,560 --> 00:05:03,199
+energií při přeskocích K_alfa, K_beta.
+
+82
+00:05:00,280 --> 00:05:06,680
+Zase je tam další členění K_alfa_1, K_alfa_2
+
+83
+00:05:03,199 --> 00:05:10,560
+například, což může zase souviset
+
+84
+00:05:06,680 --> 00:05:13,960
+třeba s různým magnetickým
+
+85
+00:05:10,560 --> 00:05:17,240
+číslem těch hladin nebo elektronů
+
+86
+00:05:13,960 --> 00:05:21,240
+na těch hladinách, a tak dále. Pak je tady
+
+87
+00:05:17,240 --> 00:05:26,199
+ještě možná zajímavý řádek Kraj pro káčko,
+
+88
+00:05:21,240 --> 00:05:31,520
+kraj pro elko, a tak dále. To nám jenom říká,
+
+89
+00:05:26,199 --> 00:05:35,400
+že to je přeskok z nekonečna nebo z kraje
+
+90
+00:05:31,520 --> 00:05:39,639
+atomů na danou hladinu. To znamená, je to
+
+91
+00:05:35,400 --> 00:05:44,720
+jinými slovy excitační energie elektronu
+
+92
+00:05:39,639 --> 00:05:46,520
+na dané hladině. Důležité a pro naši
+
+93
+00:05:44,720 --> 00:05:51,680
+orientaci v tabulce
+
+94
+00:05:46,520 --> 00:05:55,240
+je dobré vědět, že ty energie stoupají
+
+95
+00:05:51,680 --> 00:05:59,840
+pro jednotlivou čáru od prvku s nižším
+
+96
+00:05:55,240 --> 00:06:01,639
+atomovým číslem až po prvky s nejvyšším
+
+97
+00:05:59,840 --> 00:06:05,280
+atomovým číslem, čili je to
+
+98
+00:06:01,639 --> 00:06:09,319
+vzestupná řada. To znamená, když
+
+99
+00:06:05,280 --> 00:06:13,599
+hledáme čáru nebo prvek a měříme nějakou
+
+100
+00:06:09,319 --> 00:06:17,400
+čáru, tak co je důležité. Důležité je
+
+101
+00:06:13,599 --> 00:06:21,599
+tu začít hledat nejdřív v K_alfách.
+
+102
+00:06:17,400 --> 00:06:27,039
+Když najdeme, pak se dívat i co se
+
+103
+00:06:21,599 --> 00:06:28,759
+nachází za čáru na místě naší K_bety.
+
+104
+00:06:27,039 --> 00:06:31,199
+Když je to možný, tak se samozřejmě
+
+105
+00:06:28,759 --> 00:06:33,560
+podíváme i na elkové čáry, které už jsou
+
+106
+00:06:31,199 --> 00:06:36,880
+ale významně slabší a můžou se nám
+
+107
+00:06:33,560 --> 00:06:39,440
+ztrácet v šumu - podle toho, jak máme
+
+108
+00:06:36,880 --> 00:06:41,960
+citlivé zařízení
+
+109
+00:06:39,440 --> 00:06:43,400
+měřicí. Co je dál
+
+110
+00:06:41,960 --> 00:06:46,520
+důležitého, je,
+
+111
+00:06:43,400 --> 00:06:46,520
+
+112
+00:06:46,880 --> 00:06:53,840
+že když nenajdeme čáru
+
+113
+00:06:50,960 --> 00:06:57,000
+odpovídající betě, tak zpochybňujeme
+
+114
+00:06:53,840 --> 00:07:01,720
+samozřejmě správnost určení
+
+115
+00:06:57,000 --> 00:07:04,840
+čáry v alfa. Může se stát, že najdeme dvě
+
+116
+00:07:01,720 --> 00:07:08,440
+čáry, které by měly odpovídat a mohly by
+
+117
+00:07:04,840 --> 00:07:12,360
+odpovídat K_alfa, K_beta, ale nenacházíme
+
+118
+00:07:08,440 --> 00:07:14,599
+v daném místě prvek který by se
+
+119
+00:07:12,360 --> 00:07:17,560
+v tomhle shodoval.
+
+120
+00:07:14,599 --> 00:07:20,960
+A pak samozřejmě další možnost je
+
+121
+00:07:17,560 --> 00:07:23,599
+podívat se, jestli jsou to elkové čáry, a
+
+122
+00:07:20,960 --> 00:07:27,199
+když tam najdeme nějakou shodu mezi
+
+123
+00:07:23,599 --> 00:07:30,080
+L_alfa, L_beta, identifikujeme prvek. Pak je
+
+124
+00:07:27,199 --> 00:07:34,879
+důležité samozřejmě se zamyslet a
+
+125
+00:07:30,080 --> 00:07:38,960
+podívat se, proč nevidíme káčkovou
+
+126
+00:07:34,879 --> 00:07:43,520
+čáru. Poslední věc možná, kterou na úvod
+
+127
+00:07:38,960 --> 00:07:46,639
+je dobré zmínit, je, že když budeme
+
+128
+00:07:43,520 --> 00:07:48,479
+podle bodu tři se snažit vykreslit graf
+
+129
+00:07:46,639 --> 00:07:52,599
+závislosti
+
+130
+00:07:48,479 --> 00:07:55,319
+atomového čísla prvku a
+
+131
+00:07:52,599 --> 00:08:00,360
+výtěžku na dané čáře,
+
+132
+00:07:55,319 --> 00:08:03,440
+tak zase - buď tam vynášíme K_alfa čáry,
+
+133
+00:08:00,360 --> 00:08:06,479
+nebo K_beta čáry, nebo jejich součet.
+
+134
+00:08:03,440 --> 00:08:10,199
+Vynášet K_alfa a k tomu
+
+135
+00:08:06,479 --> 00:08:13,840
+se podívat a vynášet K_betovou čáru jiného
+
+136
+00:08:10,199 --> 00:08:18,199
+prvku je samozřejmě vnášení
+
+137
+00:08:13,840 --> 00:08:20,879
+chyby do tvorby takovéhoto
+
+138
+00:08:18,199 --> 00:08:23,840
+grafu. Když si nejsme jistí, tak
+
+139
+00:08:20,879 --> 00:08:26,680
+samozřejmě můžeme vynášet součet K_alfa
+
+140
+00:08:23,840 --> 00:08:29,639
+plus K_beta. Anebo můžeme ze součtu
+
+141
+00:08:26,680 --> 00:08:33,080
+separovat, pomocí
+
+142
+00:08:29,639 --> 00:08:36,039
+známého rozdělení poměru mezi K_alfa,
+
+143
+00:08:33,080 --> 00:08:39,240
+K_beta, můžeme
+
+144
+00:08:36,039 --> 00:08:42,159
+separovat jednotlivý
+
+145
+00:08:39,240 --> 00:08:45,600
+prvek. Z praktického hlediska, na to se
+
+146
+00:08:42,159 --> 00:08:49,240
+ještě podíváme pak při detailním pohledu,
+
+147
+00:08:45,600 --> 00:08:52,680
+je důležité vědět, že ty K_alfa a K_beta
+
+148
+00:08:49,240 --> 00:08:56,519
+čáry můžou při rozlišení detektoru, který
+
+149
+00:08:52,680 --> 00:09:00,079
+máme, splývat. Můžou se slít do jednoho
+
+150
+00:08:56,519 --> 00:09:03,079
+píku. V tom případě samozřejmě je těžké
+
+151
+00:09:00,079 --> 00:09:04,000
+to rozdělit měřením. Dá se to rozdělit na
+
+152
+00:09:03,079 --> 00:09:07,959
+základě
+
+153
+00:09:04,000 --> 00:09:10,320
+vztahu mezi těmi křivkami, které máme,
+
+154
+00:09:07,959 --> 00:09:13,480
+ale je asi
+
+155
+00:09:10,320 --> 00:09:16,399
+nejvhodnější pak vlastně vynášet součet
+
+156
+00:09:13,480 --> 00:09:17,959
+K_alfa a K_beta. Vlastně vynášíme tu
+
+157
+00:09:16,399 --> 00:09:21,640
+slitou
+
+158
+00:09:17,959 --> 00:09:24,480
+čáru. Takže to by bylo všechno k
+
+159
+00:09:21,640 --> 00:09:28,760
+praktickému měření. Protože tady nemůžete
+
+160
+00:09:24,480 --> 00:09:29,959
+být a nemůžu vás přímo navigovat, tak po
+
+161
+00:09:28,760 --> 00:09:31,920
+nabrání
+
+162
+00:09:29,959 --> 00:09:35,920
+spektra, jak to
+
+163
+00:09:31,920 --> 00:09:38,720
+máme tady připravený, a po
+
+164
+00:09:35,920 --> 00:09:44,959
+identifikaci čar
+
+165
+00:09:38,720 --> 00:09:44,959
+americia a pak nakalibrování
+
+166
+00:09:47,399 --> 00:09:54,519
+spektroskopu, pak si nabereme takzvané
+
+167
+00:09:50,600 --> 00:09:59,600
+referenční spektrum, kde umístíme
+
+168
+00:09:54,519 --> 00:10:02,760
+zářič do finální polohy, kdy nám
+
+169
+00:09:59,600 --> 00:10:08,320
+bude zářit na náš vzorek
+
+170
+00:10:02,760 --> 00:10:12,560
+a vyzářené záření ze vzorečku nám
+
+171
+00:10:08,320 --> 00:10:16,440
+bude směrováno na
+
+172
+00:10:12,560 --> 00:10:21,560
+detektor. A tak dále. Nedáme tam na úvod
+
+173
+00:10:16,440 --> 00:10:26,680
+žádný vzorek, necháme tam jenom držák,
+
+174
+00:10:21,560 --> 00:10:31,320
+založíme, umístíme to co nejblíž k
+
+175
+00:10:26,680 --> 00:10:31,320
+zařízení, opatrně, ať něco nepoškodíme.
+176
+00:10:35,720 --> 00:10:39,680
+Snažíme se co
+
+177
+00:10:40,000 --> 00:10:46,680
+nejblíž. Tak v tomhle uspořádání nabereme
+
+178
+00:10:43,079 --> 00:10:50,200
+referenční spektrum, které pak můžeme
+
+179
+00:10:46,680 --> 00:10:51,760
+odečítat od naměřených spekter. Úvodní
+
+180
+00:10:50,200 --> 00:10:55,440
+krok je nakalibrování
+
+181
+00:10:51,760 --> 00:10:58,600
+našeho detektoru. Některé píky jsou
+
+182
+00:10:55,440 --> 00:11:02,040
+jednoduché a některé píky jsou označené
+
+183
+00:10:58,600 --> 00:11:05,120
+jako triplety. Triplet znamená, že je to
+
+184
+00:11:02,040 --> 00:11:09,000
+slitý jeden pík, nebo je to pík
+
+185
+00:11:05,120 --> 00:11:12,000
+rozpadnutý na tři podpíky, které nemusí
+
+186
+00:11:09,000 --> 00:11:15,920
+mít vůbec stejnou intenzitu. Takovejhle
+
+187
+00:11:12,000 --> 00:11:18,760
+pík se nám promítne v našem
+
+188
+00:11:15,920 --> 00:11:21,800
+spektroskopu nějakým způsobem a dopředu
+
+189
+00:11:18,760 --> 00:11:26,320
+nemůžeme vědět, jestli to není nějakým
+
+190
+00:11:21,800 --> 00:11:32,279
+způsobem posunutý. Proto se zaměříme na
+
+191
+00:11:26,320 --> 00:11:35,279
+jednoduché píky a vyznačíme je.
+
+192
+00:11:32,279 --> 00:11:35,279
+Třetí pík...
+
+193
+00:11:35,480 --> 00:11:39,079
+Plus...
+
+194
+00:11:37,519 --> 00:11:42,079
+...začátek...
+
+195
+00:11:39,079 --> 00:11:42,079
+...konec...
+
+196
+00:11:42,399 --> 00:11:48,680
+...done. Jdeme do
+
+197
+00:11:45,680 --> 00:11:48,680
+Tools...
+
+198
+00:11:49,040 --> 00:11:57,639
+Kalibrace... Vyčistíme
+
+199
+00:11:52,320 --> 00:12:00,639
+všechno, přidáme první pík... Centroid...
+
+200
+00:11:57,639 --> 00:12:00,639
+...hodnota...
+
+201
+00:12:03,360 --> 00:12:11,000
+tečka...
+
+202
+00:12:06,200 --> 00:12:12,959
+Pět... Add... OK...
+
+203
+00:12:11,000 --> 00:12:16,240
+
+204
+00:12:12,959 --> 00:12:19,160
+A kalibraci zviditelníme. Teď si kontrolně
+
+205
+00:12:16,240 --> 00:12:22,630
+označíme tripletové píky, které se nám
+
+206
+00:12:19,160 --> 00:12:22,630
+zdály nevhodné a podezřelé.
+
+207
+00:12:23,100 --> 00:12:34,010
+Example of peak evaluation, just for the information of enthusiasts.
+
+208
+00:12:29,650 --> 00:12:34,010
+
+209
+00:12:36,519 --> 00:12:45,160
+Při hledání prvků musíme počítat, že se
+
+210
+00:12:41,000 --> 00:12:47,920
+můžeme dopouštět chyby 0,3 keVu, která
+
+211
+00:12:45,160 --> 00:12:52,040
+nesouvisí s nabranou statistikou, ale je
+
+212
+00:12:47,920 --> 00:12:55,920
+daná třeba tím, že ten pík se skládá z
+
+213
+00:12:52,040 --> 00:12:59,560
+několika čar, třeba z tripletu, a ten není
+
+214
+00:12:55,920 --> 00:13:01,519
+rovnoměrný, což většinou nemá důvod být, a
+
+215
+00:12:59,560 --> 00:13:03,959
+tudíž tohle nám deformuje pak tu
+
+216
+00:13:01,519 --> 00:13:06,880
+výslednou
+
+217
+00:13:03,959 --> 00:13:11,000
+informaci.
+
+218
+00:13:06,880 --> 00:13:13,519
+Děkuji! Takže po dobu, než se nám nabírá
+
+219
+00:13:11,000 --> 00:13:17,240
+slibované referenční spektrum, které pak
+
+220
+00:13:13,519 --> 00:13:20,399
+budeme odečítat od nabraného signálu, už
+
+221
+00:13:17,240 --> 00:13:23,399
+teď můžete vidět, že původní vysokánská
+
+222
+00:13:20,399 --> 00:13:23,399
+hodnota...
+
+223
+00:13:23,560 --> 00:13:33,600
+[Zrychlené přehrávání]
+
+224
+00:13:29,880 --> 00:13:36,160
+...na místech původních píků malé hrbolky,
+
+225
+00:13:33,600 --> 00:13:39,399
+které bude dobré pak odečítat od
+
+226
+00:13:36,160 --> 00:13:42,639
+skutečného spektra. Děkuji!
+
+227
+00:13:39,399 --> 00:13:40,480
+Vzorek č. 1
+
+228
+00:13:40,480 --> 00:13:51,000
+Jako příklad... Kromě toho, že vám budou zaslány, pak
+
+229
+00:13:46,480 --> 00:13:55,519
+trošku připravená data, uděláme si teď
+
+230
+00:13:51,000 --> 00:13:55,519
+vzorové měření vzorku číslo
+
+231
+00:13:56,320 --> 00:14:03,839
+jedna, který založíme
+
+232
+00:13:59,800 --> 00:14:07,079
+na experimentální místo. Zase je to
+
+233
+00:14:03,839 --> 00:14:12,480
+zhruba pod úhlem 45 stupňů tak, aby na něho
+
+234
+00:14:07,079 --> 00:14:15,880
+zářil zářič, a takhle to založíme.
+
+235
+00:14:12,480 --> 00:14:21,240
+Dál budeme se věnovat ještě zajímavému
+
+236
+00:14:15,880 --> 00:14:24,680
+vzorku číslo čtyři a vzorku číslo pět, ke
+
+237
+00:14:21,240 --> 00:14:28,079
+kterému vám ukážu něco na monitoru. Ale
+
+238
+00:14:24,680 --> 00:14:32,199
+jinak byste takhle měli mít představu o
+
+239
+00:14:28,079 --> 00:14:35,480
+tom, co to měření
+
+240
+00:14:32,199 --> 00:14:39,240
+obnáší. Bohužel si nemůžete nabrat svoje
+
+241
+00:14:35,480 --> 00:14:42,680
+vlastní data, ale zkusím vám nabídnout
+
+242
+00:14:39,240 --> 00:14:45,959
+nabraná data naše, a ty si můžete
+
+243
+00:14:42,680 --> 00:14:49,480
+sami nafitovat a pokusit se určit, co je
+
+244
+00:14:45,959 --> 00:14:52,440
+vzorek číslo jedna, číslo dva a tak dále.
+
+245
+00:14:49,480 --> 00:14:56,079
+Takže teď jdu nabrat data pro vzorek
+
+246
+00:14:52,440 --> 00:14:59,720
+číslo jedna a pak vám ukážu, jak můžete
+
+247
+00:14:56,079 --> 00:15:03,320
+přistoupit pak k té samotné identifikaci
+
+248
+00:14:59,720 --> 00:15:08,279
+materiálu toho vzorku.
+
+249
+00:15:03,320 --> 00:15:09,959
+Děkuji! Takže máme nabrané asi po třech
+
+250
+00:15:08,279 --> 00:15:14,440
+minutách
+
+251
+00:15:09,959 --> 00:15:20,199
+času. Takovéhle spektrum, když se podíváte,
+
+252
+00:15:14,440 --> 00:15:23,800
+tahle část většinou kopíruje to, co jsme
+
+253
+00:15:20,199 --> 00:15:27,360
+měli jako referenční spektrum. Takže pak
+
+254
+00:15:23,800 --> 00:15:30,199
+ve vašem případě si odečtete referenční
+
+255
+00:15:27,360 --> 00:15:33,360
+spektrum a měl by vám tam vykouknout
+
+256
+00:15:30,199 --> 00:15:35,959
+takovýto hezký pík, který už jsem
+
+257
+00:15:33,360 --> 00:15:37,079
+označil zhruba od těchto míst do
+
+258
+00:15:37,079 --> 00:15:40,880
+těchto míst.
+
+259
+00:15:37,079 --> 00:15:44,639
+Jak ho dál analyzovat, jak z tohoto
+
+260
+00:15:40,880 --> 00:15:49,160
+píku zjistit, o jaký prvek se jedná.
+
+261
+00:15:44,639 --> 00:15:53,279
+Tady máme výpis binu toho
+
+262
+00:15:49,160 --> 00:15:58,240
+píku, máme tady, kde začal, kde
+
+263
+00:15:53,279 --> 00:16:01,639
+skončil, na jaké energii má těžiště,
+
+264
+00:15:58,240 --> 00:16:04,639
+8,25 keV, už je to v nakalibrovaných
+
+265
+00:16:01,639 --> 00:16:04,639
+jednotkách, šířku v polovině maxima,
+
+266
+00:16:06,279 --> 00:16:14,279
+nějaké rozlišení, rozsah, odkud, kam
+
+267
+00:16:09,600 --> 00:16:18,000
+v keVech. Gross, to znamená velikost
+
+268
+00:16:14,279 --> 00:16:23,079
+celková - kolik tam napadalo eventů.
+
+269
+00:16:18,000 --> 00:16:25,959
+Net Area, to je počet prvků v té
+
+270
+00:16:23,079 --> 00:16:31,519
+růžové označené části po odečtení
+
+271
+00:16:25,959 --> 00:16:31,519
+backgroundu. Když si tam najedeme
+
+272
+00:16:32,040 --> 00:16:39,839
+myškou, tak se nám objeví pod ROI, což je
+
+273
+00:16:36,319 --> 00:16:43,319
+zkratka pro Region of Interest, se nám
+
+274
+00:16:39,839 --> 00:16:48,240
+objeví ještě jedna informace navíc, která
+
+275
+00:16:43,319 --> 00:16:52,880
+nás zajímá. A to je Net Life, to znamená
+
+276
+00:16:48,240 --> 00:16:55,240
+počet countů za sekundu, neboli česky výtěžek.
+
+277
+00:16:52,880 --> 00:16:59,399
+Tohle číslo, těch
+
+278
+00:16:55,240 --> 00:17:04,160
+3479 a tak dále, zatím to nabíráme.
+
+279
+00:16:59,399 --> 00:17:08,079
+nám určuje, kolik eventů za vteřinu nám
+
+280
+00:17:04,160 --> 00:17:11,559
+do tohoto napadalo. Je to hodnota,
+
+281
+00:17:08,079 --> 00:17:15,160
+kterou pak budete vynášet do grafu v
+
+282
+00:17:11,559 --> 00:17:16,959
+úloze číslo
+
+283
+00:17:15,160 --> 00:17:20,559
+tři.
+
+284
+00:17:16,959 --> 00:17:24,160
+Takže, jak to určujeme. Vezmeme tabulky a
+
+285
+00:17:20,559 --> 00:17:28,960
+začneme hledat v káčkových čarách. Je to
+
+286
+00:17:24,160 --> 00:17:33,640
+zhruba 8,25 keV, takže do toho nám
+
+287
+00:17:28,960 --> 00:17:38,360
+padají kandidáti nikl, měď a zinek
+
+288
+00:17:33,640 --> 00:17:40,960
+s hodnotami pro K_alfa kolem osmi, 8,6, 7,9.
+
+289
+00:17:38,360 --> 00:17:45,039
+Takže začneme
+
+290
+00:17:40,960 --> 00:17:47,799
+postupně. Myškou si ťuknete na
+
+291
+00:17:45,039 --> 00:17:49,600
+hodnotu
+
+292
+00:17:47,799 --> 00:17:53,039
+7,4
+
+293
+00:17:49,600 --> 00:17:53,039
+zhruba. To je tady.
+
+294
+00:17:54,720 --> 00:17:59,840
+A vidíme, že pro alfa čáru se
+
+295
+00:17:58,120 --> 00:18:05,280
+nachází
+
+296
+00:17:59,840 --> 00:18:10,240
+někde na náběžné straně. Když si ťukneme na beta čáru
+
+297
+00:18:05,280 --> 00:18:14,559
+8,3, což je někde tady, tak nám vychází, že
+
+298
+00:18:10,240 --> 00:18:17,960
+beta by byla významně vyšší než alfa.
+
+299
+00:18:14,559 --> 00:18:23,159
+Ale z teorie víme, že alfa je určitě
+
+300
+00:18:17,960 --> 00:18:25,919
+minimálně třikrát větší než K_beta, takže
+
+301
+00:18:23,159 --> 00:18:30,240
+Nikl není úplně dobrý kandidát. Podíváme
+
+302
+00:18:25,919 --> 00:18:36,559
+se na měď. Měď má alfa na
+
+303
+00:18:30,240 --> 00:18:40,159
+8,0, což je zhruba v těchhle místech, což
+
+304
+00:18:36,559 --> 00:18:43,760
+je trošičku pod maximem. Takže zatím
+
+305
+00:18:40,159 --> 00:18:48,960
+dobrý kandidát. A K_beta nám vychází na
+
+306
+00:18:43,760 --> 00:18:48,960
+8,9 podle tabulek. Takže
+
+307
+00:18:50,679 --> 00:18:57,679
+ťukneme si na 8,9 a je to už významně
+
+308
+00:18:53,400 --> 00:19:02,520
+níž, než alfa nám vycházela, a odpovídá to
+
+309
+00:18:57,679 --> 00:19:06,159
+i logice teorie, že výtěžek alfové čáry bude
+
+310
+00:19:02,520 --> 00:19:08,200
+významně vyšší než beta.
+
+311
+00:19:06,159 --> 00:19:14,360
+Třetí kandidát, který nám do tohoto
+
+312
+00:19:08,200 --> 00:19:14,360
+rozsahu padá, je ještě zinek. 8,6, když si
+
+313
+00:19:15,400 --> 00:19:22,760
+ťukneme výchází do těchto míst, to znamená, je těžký
+
+314
+00:19:19,159 --> 00:19:26,159
+vysvětlit, proč před alfa čárou se nám
+
+315
+00:19:22,760 --> 00:19:30,159
+nachází takové množství eventů, neboli
+
+316
+00:19:26,159 --> 00:19:33,480
+událostí, a když se podíváme na 9,6, což
+
+317
+00:19:30,159 --> 00:19:38,679
+je beta čára, tak
+
+318
+00:19:33,480 --> 00:19:42,919
+9,6 nám už prakticky padá na konec píku, 
+
+319
+00:19:38,679 --> 00:19:43,880
+a tudíž vlastně tenhle kandidát je taky
+
+320
+00:19:42,919 --> 00:19:48,640
+pro nás
+
+321
+00:19:43,880 --> 00:19:53,640
+ne tak dobrý jako kandidát měď. Závěr je,
+
+322
+00:19:48,640 --> 00:19:58,159
+že prvek je měď. Druhý závěr je, že K_alfa
+
+323
+00:19:53,640 --> 00:19:59,360
+a K_beta čáry mědi jsou slité do jednoho
+
+324
+00:19:58,159 --> 00:20:03,640
+velkého
+
+325
+00:19:59,360 --> 00:20:07,720
+společného píku a není rozlišitelná
+
+326
+00:20:03,640 --> 00:20:11,840
+jednotlivá skupina eventů pro alfa a pro
+
+327
+00:20:07,720 --> 00:20:14,159
+beta přechod. Takže to by bylo k
+
+328
+00:20:11,840 --> 00:20:17,919
+měděnému
+
+329
+00:20:14,159 --> 00:20:20,559
+vzorku číslo jedna. Takhle když
+
+330
+00:20:17,919 --> 00:20:24,200
+přistoupíte k určování ostatních vzorků,
+
+331
+00:20:20,559 --> 00:20:27,679
+tak by se vám měly povést ty vzorky
+
+332
+00:20:24,200 --> 00:20:31,520
+všechny identifikovat. Na závěr poslední
+
+333
+00:20:27,679 --> 00:20:36,480
+část, zastavím se ještě u jednoho
+
+334
+00:20:31,520 --> 00:20:36,480
+vzorku, číslo čtyři.
+
+335
+00:20:37,960 --> 00:20:45,400
+Za chviličku! Vzorek číslo čtyři jsem
+
+336
+00:20:40,919 --> 00:20:47,520
+sliboval, že se na něj ještě podíváme. Proč?
+
+337
+00:20:45,400 --> 00:20:52,120
+Vidíme ho, že je
+
+338
+00:20:47,520 --> 00:20:57,679
+označený jako součtový, a v něm vidíme, že
+
+339
+00:20:52,120 --> 00:21:02,039
+máme nějaká dvě maxima, takže můžeme
+
+340
+00:20:57,679 --> 00:21:05,200
+očekávat, že se jedná o slitý pík a nižší
+
+341
+00:21:02,039 --> 00:21:08,280
+energie bude maximum pro alfu, vyšší pro
+
+342
+00:21:05,200 --> 00:21:11,720
+betu. Takže jdeme hledat. Když se podíváme
+
+343
+00:21:08,280 --> 00:21:17,440
+na první pík tak nám vychází energie
+
+344
+00:21:11,720 --> 00:21:22,880
+kolem 10,7. U druhého píku to bude
+
+345
+00:21:17,440 --> 00:21:26,919
+12,6, plus mínus. A budeme hledat. Takže
+
+346
+00:21:22,880 --> 00:21:30,960
+hledáme v K_alfa. 10,7 nám vychází něco
+
+347
+00:21:26,919 --> 00:21:33,880
+mezi germániem a
+
+348
+00:21:30,960 --> 00:21:37,159
+arzénem. Což by nebylo úplně příjemné mít
+
+349
+00:21:33,880 --> 00:21:41,080
+tady arzén. Ale když máme
+
+350
+00:21:37,159 --> 00:21:43,159
+10,6 u arzénu, tak byhom tam měli mít
+
+351
+00:21:41,080 --> 00:21:47,320
+něco na 11,7.
+
+352
+00:21:43,159 --> 00:21:53,039
+Když se podíváme, co se nachází na
+
+353
+00:21:47,320 --> 00:21:53,039
+11,7, tak je tam přesně důlek - je tam minimum na 11,7.
+
+354
+00:21:58,600 --> 00:22:04,799
+Takže arzén, pokud tam je, tak jeho beta čára
+by byla uměle posunutá do ohromně
+
+355
+00:22:01,120 --> 00:22:08,480
+vyšších energií. Když hledáme naopak beta
+
+356
+00:22:04,799 --> 00:22:13,760
+čáru, tam vyhovuje velmi dobře selen
+
+357
+00:22:08,480 --> 00:22:17,039
+svými K_beta čarami, ale K_alfa čára
+
+358
+00:22:13,760 --> 00:22:20,799
+selenu vychází na 11,1.
+
+359
+00:22:17,039 --> 00:22:25,240
+A když se podíváme, kde je 11,1, 
+
+360
+00:22:20,799 --> 00:22:29,320
+zase to vychází někde do údolí.
+
+361
+00:22:25,240 --> 00:22:32,799
+Takže ani selen to nemůže být. V tomto
+
+362
+00:22:29,320 --> 00:22:36,039
+případě nenacházíme kombinaci K_alfa a
+
+363
+00:22:32,799 --> 00:22:40,880
+K_beta čáry, která by vyhovovala pro
+
+364
+00:22:36,039 --> 00:22:45,840
+měřený vzorek. Proto zkusíme
+
+365
+00:22:40,880 --> 00:22:49,240
+jít do čar L. Když hledáme L_alfa čáru,
+
+366
+00:22:45,840 --> 00:22:51,120
+tady chybí stránka, když hledáme
+
+367
+00:22:49,240 --> 00:22:53,760
+L_alfa
+
+368
+00:22:51,120 --> 00:22:55,679
+čáru,
+
+369
+00:22:53,760 --> 00:22:59,000
+hledáme
+
+370
+00:22:55,679 --> 00:23:00,559
+L_alfa.
+
+371
+00:22:59,000 --> 00:23:03,880
+
+
+372
+00:23:00,559 --> 00:23:08,520
+10,7 je
+
+373
+00:23:03,880 --> 00:23:14,720
+bizmut. K_alfa 10,8. Dobrý kandidát je ještě
+
+374
+00:23:08,520 --> 00:23:18,600
+olovo, 10,4, 10,5. Podíváme se na
+
+375
+00:23:14,720 --> 00:23:23,679
+betu. L_beta,
+
+376
+00:23:18,600 --> 00:23:29,679
+tady máme všechno na úrovni kolem
+
+377
+00:23:23,679 --> 00:23:34,640
+12,3, 12,7 pro olovo, 12,6,
+
+378
+00:23:29,679 --> 00:23:38,400
+12,6, a skutečně 12,6 je beta čára, kterou
+
+379
+00:23:34,640 --> 00:23:42,000
+pozorujeme. U bizmutu by to bylo spíš
+
+380
+00:23:38,400 --> 00:23:45,840
+13,4. Je tu 12,6
+
+381
+00:23:42,000 --> 00:23:48,960
+čtyřková čára ale beta čáry všechny se
+
+382
+00:23:45,840 --> 00:23:50,559
+pohybují kolem 13. Když se podíváme, kde
+
+383
+00:23:48,960 --> 00:23:56,200
+je 13,
+
+384
+00:23:50,559 --> 00:23:59,400
+je už trošičku za píkem.
+
+385
+00:23:56,200 --> 00:24:00,320
+To znamená... Tady je zruba 13, kdežto tady
+
+386
+00:23:59,400 --> 00:24:03,960
+máme těch 12,6. To znamená, že
+
+387
+00:24:00,320 --> 00:24:06,799
+
+388
+00:24:03,960 --> 00:24:10,039
+můžeme udělat závěr pro vzorek
+
+389
+00:24:06,799 --> 00:24:13,799
+číslo čtyři, že se jedná buď o olovo, nebo
+
+390
+00:24:10,039 --> 00:24:17,080
+o bizmut. S tím, že vyšší pravděpodobnost
+
+391
+00:24:13,799 --> 00:24:21,919
+a líp ty čáry sedí pro
+
+392
+00:24:17,080 --> 00:24:26,559
+olovo. Takže to by bylo k tomuto a dál už
+
+393
+00:24:21,919 --> 00:24:30,000
+asi nebudeme natáčet další informace a
+
+394
+00:24:26,559 --> 00:24:33,600
+vám budou zaslána data, která byste měli
+
+395
+00:24:30,000 --> 00:24:37,520
+zkusit tímhle způsobem zpracovat,
+
+396
+00:24:33,600 --> 00:24:39,970
+a splnit i další úlohy, které se po vás
+
+397
+00:24:37,520 --> 00:24:57,320
+žádají. Děkuji za pozornost!
+
+398
+00:24:39,970 --> 00:24:43,360
+Následují grafy a tabulky, které budete potřebovat
+anebo se vám můžou hodit.
+
+399
+00:24:43,360 --> 00:25:04,240
+
+400
+00:25:00,360 --> 00:25:04,240
+[Hudba]
+

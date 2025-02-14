@@ -1,0 +1,381 @@
+1
+00:00:04,000 --> 00:00:09,639
+Dobrý den, vítejte v trojské části
+
+2
+00:00:06,480 --> 00:00:12,200
+praktika 4! Moje jméno je Hedvika Gedeonová
+
+3
+00:00:09,639 --> 00:00:15,440
+a já jsem Tadeáš Dohnal a společně vás
+
+4
+00:00:12,200 --> 00:00:19,600
+provedeme úlohou číslo 8 absorbce beta
+
+5
+00:00:15,440 --> 00:00:21,960
+záření. Já budu váš modelový student a já
+
+6
+00:00:19,600 --> 00:00:26,920
+vyučující. Taky ten, kdo opravuje
+
+7
+00:00:21,960 --> 00:00:26,920
+protokoly. Tak pojďme na to!
+
+8
+00:00:32,599 --> 00:00:36,600
+Prvně se podíváme na naši
+
+9
+00:00:39,960 --> 00:00:47,879
+aparaturu. Zde ve spodní části je náš
+
+10
+00:00:43,399 --> 00:00:50,480
+zářič. Jedná se o stroncium 90, tedy beta
+
+11
+00:00:47,879 --> 00:00:54,719
+zářič, který emituje beta záření nebo
+
+12
+00:00:50,480 --> 00:00:57,680
+elektrony. A jak je vidět, tady v tom plastu je
+
+13
+00:00:54,719 --> 00:01:00,359
+vyvrtaný otvor, kterým ty elektrony jsou
+
+14
+00:00:57,680 --> 00:01:04,079
+směřovány do
+
+15
+00:01:00,359 --> 00:01:04,079
+poměrně úzkého svazku směrem
+
+16
+00:01:04,280 --> 00:01:09,840
+nahoru. No, a tady máme Geigerův-Muellerův detektor.
+
+17
+00:01:08,200 --> 00:01:13,159
+To je ta věc se kterou chodili kolem
+
+18
+00:01:09,840 --> 00:01:15,360
+Černobylu? Jak to cvaká a měřili tam tu
+
+19
+00:01:13,159 --> 00:01:18,159
+radioaktivitu? V principu je to ten typ
+
+20
+00:01:15,360 --> 00:01:21,520
+detektoru, akorát tento teda
+
+21
+00:01:18,159 --> 00:01:25,280
+necvaká. Signál z toho Geigerova-Muellerova
+
+22
+00:01:21,520 --> 00:01:28,240
+detektoru jde tudy do analyzátoru, který
+
+23
+00:01:25,280 --> 00:01:31,040
+ten signál zpracuje a pak předá
+
+24
+00:01:28,240 --> 00:01:34,000
+informaci do počítače, o tom kolik jsme
+
+25
+00:01:31,040 --> 00:01:36,479
+těch elektronů nebo jiných signálů z
+
+26
+00:01:34,000 --> 00:01:36,479
+pozadí zaznamenali.
+
+27
+00:01:39,040 --> 00:01:44,360
+V první části této úlohy si
+
+28
+00:01:42,079 --> 00:01:46,799
+proměříme charakteristiku Geigerova-Muellerova
+
+29
+00:01:44,360 --> 00:01:50,439
+detektoru. Tady jsem si půjčil
+
+30
+00:01:46,799 --> 00:01:53,560
+jeden exemplář z vedlejší úlohy. Když se
+
+31
+00:01:50,439 --> 00:01:57,799
+podíváte, tak možná uvidíte, že uprostřed
+
+32
+00:01:53,560 --> 00:02:01,719
+je tenký drátek, který tvoří anodu, a pak
+
+33
+00:01:57,799 --> 00:02:06,880
+okolo jakoby povrch válce nebo ten plášť
+
+34
+00:02:01,719 --> 00:02:09,720
+tvoří katodu. Na ty přivedeme napětí a
+
+35
+00:02:06,880 --> 00:02:11,920
+chceme vlastně změřit, kolik těch signálů
+
+36
+00:02:09,720 --> 00:02:14,319
+uvidíme v závislosti na tom přivedeném
+
+37
+00:02:11,920 --> 00:02:18,080
+napětí. Takže budeme měnit napětí a měřit
+
+38
+00:02:14,319 --> 00:02:21,400
+počet signálů a cílem je určit takové
+
+39
+00:02:18,080 --> 00:02:23,920
+napětí, které bude optimální pro další
+
+40
+00:02:21,400 --> 00:02:28,760
+měření. Teď si nastavíme dobu měření na
+
+41
+00:02:23,920 --> 00:02:35,160
+20 sekund, pak možnost spektrum a plato a od
+
+42
+00:02:28,760 --> 00:02:37,480
+400 V do 800 V s krokem po 5 V. Celkem to
+
+43
+00:02:35,160 --> 00:02:40,599
+bude trvat asi skoro půl hodiny, ale zas to
+
+44
+00:02:37,480 --> 00:02:40,599
+vlastně celý proměří samo.
+Půl hodiny?
+
+45
+00:02:45,760 --> 00:02:50,879
+V druhé části této úlohy budeme měřit
+
+46
+00:02:49,000 --> 00:02:54,360
+tu vlastní absorpční
+
+47
+00:02:50,879 --> 00:02:56,920
+křivku. K tomu tady máme tyto plíšky.
+
+48
+00:02:54,360 --> 00:02:59,080
+Když se podíváš, je tu napsaná plošná hustota.
+
+49
+00:02:56,920 --> 00:03:01,280
+Ovšem jsou z hliníku, což není úplně
+
+50
+00:02:59,080 --> 00:03:03,440
+nejtvrdší kov a jsou tu řadu let.
+
+51
+00:03:01,280 --> 00:03:09,480
+Takže mohou být poněkud už ošmatané.
+
+52
+00:03:03,440 --> 00:03:14,239
+Ten plíšek vezmeme, vložíme ho mezi
+
+53
+00:03:09,480 --> 00:03:17,440
+zářič a detektor a zavřeme dvířka.
+
+54
+00:03:14,239 --> 00:03:20,680
+Zavřeme dvířka? Až teď? Tak to už jsem
+
+55
+00:03:17,440 --> 00:03:22,799
+přeci stejně dávno ozářená, ne?
+
+56
+00:03:20,680 --> 00:03:24,879
+Zářič asi není tak silný, spíš jde o to, abychom tam
+
+57
+00:03:22,799 --> 00:03:28,480
+jaksi nezaznamenávali nějaký pozadí z venku.
+
+58
+00:03:24,879 --> 00:03:31,400
+A u tý první úlohy nám to nevadilo?
+
+59
+00:03:28,480 --> 00:03:33,480
+No, tak tam nám šlo o to, jak se mění
+
+60
+00:03:31,400 --> 00:03:35,200
+počet signálů v závislosti na napětí, ale
+
+61
+00:03:33,480 --> 00:03:37,840
+jaký je původ signálu to nám bylo v
+
+62
+00:03:35,200 --> 00:03:41,120
+podstatě jedno. Jenže teďka bychom chtěli
+
+63
+00:03:37,840 --> 00:03:46,519
+pokud možno jenom ty elektrony nebo beta
+
+64
+00:03:41,120 --> 00:03:49,599
+záření ze stroncia.
+
+65
+00:03:46,519 --> 00:03:53,560
+Takže zavřeme dvířka, spustíme měření, každé měření bude
+
+66
+00:03:49,599 --> 00:03:58,040
+mít 100 sekund a až doběhne, tak zase
+
+67
+00:03:53,560 --> 00:04:00,599
+otevřeme a vložíme další plíšek.
+
+68
+00:03:58,040 --> 00:04:02,799
+Budeme se snažit, abychom s těmi předchozími
+
+69
+00:04:00,599 --> 00:04:04,319
+plíšky nepohli, a vlastně vždycky budeme
+
+70
+00:04:02,799 --> 00:04:06,439
+vkládat jenom další a další plíšky.
+
+71
+00:04:04,319 --> 00:04:10,159
+Nebudeme je vyndavat právě kvůli
+
+72
+00:04:06,439 --> 00:04:12,360
+konzistenci geometrie. A až tam dáme
+
+73
+00:04:10,159 --> 00:04:14,040
+všechny ty popsané, tak pak na závěr se
+
+74
+00:04:12,360 --> 00:04:16,639
+tam přidá tento
+
+75
+00:04:14,040 --> 00:04:20,280
+tlustý, skrz který už by žádný elektron
+
+76
+00:04:16,639 --> 00:04:22,479
+ze stroncia neměl projít. To ovšem neznamená,
+
+77
+00:04:20,280 --> 00:04:24,280
+že neuvidíme žádný signál, protože
+
+78
+00:04:22,479 --> 00:04:27,080
+elektrony se taky mohou odrážet od stěny
+
+79
+00:04:24,280 --> 00:04:29,880
+komory a dorazit do detektoru, aniž by
+
+80
+00:04:27,080 --> 00:04:31,360
+vůbec museli pojít absorbátorem.
+
+81
+00:04:29,880 --> 00:04:34,840
+Takže v tomto smyslu nějaké experimentální
+
+82
+00:04:31,360 --> 00:04:34,840
+pozadí tam bude pravděpodobně stále.
+
+83
+00:04:38,520 --> 00:04:43,240
+Třetí část měření budeme provádět
+
+84
+00:04:41,440 --> 00:04:47,680
+opět bez
+
+85
+00:04:43,240 --> 00:04:50,199
+absorbátoru. Uděláme celkem 765 měření,
+
+86
+00:04:47,680 --> 00:04:53,840
+každé s trváním 1 sekunda. V každém
+
+87
+00:04:50,199 --> 00:04:55,560
+měření změříme počet těch elektronů z
+
+88
+00:04:53,840 --> 00:04:59,000
+rozpadu stroncia, které dorazily do
+
+89
+00:04:55,560 --> 00:05:01,039
+detektoru. A cílem je se podívat, zda
+
+90
+00:04:59,000 --> 00:05:04,280
+počet těch
+
+91
+00:05:01,039 --> 00:05:09,120
+elektronů z těch měření je rozložen
+
+92
+00:05:04,280 --> 00:05:11,000
+podle poissonovského rozdělení, jak bychom čekali, či nikoliv.
+
+93
+00:05:09,120 --> 00:05:13,759
+Doufám, že jste si náš tutoriál užili, a po
+
+94
+00:05:11,000 --> 00:05:16,960
+koronaviru opět naviděnou! Už se těším na
+
+95
+00:05:13,759 --> 00:05:16,960
+vaše protokoly!
+
