@@ -1,0 +1,10 @@
+pandas>=2.3.2
+numpy>=2.3.2
+matplotlib>=3.10.6
+scipy>=1.16.1
+uncertainties>=3.2.3
+seaborn>=0.13.2
+mcerp>=0.12
+ipykernel>=6.30.1
+IPython>=9.5.0
+openpyxl>=3.1.5
