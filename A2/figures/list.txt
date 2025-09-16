@@ -1,1 +1,8 @@
-list of figures
+VA_en - Characteristics of a gas detector
+VA_cs - Charakteristika plynového detektoru
+konektor_en - Connector scheme for connecting a gas detector
+konektor_cs - Schéma konektoru pro připojení plynového detektoru
+IK_en - Connection scheme for measurement with ionisation chamber
+IK_cs - Schéma zapojení pro studium ionizační komory
+GM_en - Connection scheme for measurement with GM detector
+GM_cs - Schéma zapojení pro studium GM detektoru
