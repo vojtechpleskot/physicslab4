@@ -9,15 +9,15 @@ from matplotlib.patches import Rectangle
 # Internal mapping from task number to task name.
 # Edit/extend as needed.
 TASK_NAMES = {
-    0: "(A0) Studium spekter záření gama polovodičovým\nspektrometrem.",
-    1: "(A1) Objevování částic v detektoru ATLAS v CERN.",
-    2: "(A2) Studium plynových detektorů.",
-    3: "(A3) Identifikace prvků na základě jejich charakteristického\nrentgenového záření.",
-    4: "(A4) Totální účinný průřez interakce gama záření -\nabsorpční koeficient záření gama pro některé elementy.",
-    5: "(A5) Spektrometrie záření alpha",
-    6: "(A6) Simulace průchodu částic hadronovým kalorimetrem.",
-    7: "(A7) Pozitronová emisní tomografie.",
-    8: "(A8) Absorpce beta záření.",
+    0: "Studium spekter záření gama polovodičovým\nspektrometrem.",
+    1: "Objevování částic v detektoru ATLAS v CERN.",
+    2: "Studium plynových detektorů.",
+    3: "Identifikace prvků na základě jejich charakteristického\nrentgenového záření.",
+    4: "Totální účinný průřez interakce gama záření -\nabsorpční koeficient záření gama pro některé elementy.",
+    5: "Spektrometrie záření alpha",
+    6: "Simulace průchodu částic hadronovým kalorimetrem.",
+    7: "Pozitronová emisní tomografie.",
+    8: "Absorpce beta záření.",
 }
 
 def _cz_date_string(dt: datetime) -> str:
