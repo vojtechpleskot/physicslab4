@@ -117,16 +117,16 @@ def header(*, student: str, task_no: int, date: str | None = None, task_name: st
 
     # Scoring table header
     table_top = comments_top - comments_height - 2.0*line_h
-    ax.text(left, table_top, "Možný počet bodů", ha="left", va="center", fontsize=12)
+    ax.text(left, table_top, "", ha="left", va="center", fontsize=12)
     ax.text(right, table_top, "Udělený počet bodů", ha="right", va="center", fontsize=12)
 
     # Table rows
     rows = [
-        ("Teoretická část", "0 - 2"),
-        ("Výsledky a zpracování měření", "0 - 9"),
-        ("Diskuse výsledků", "0 - 4"),
-        ("Závěr", "0 - 1"),
-        ("Seznam použité literatury", "0 - 1"),
+        #("Teoretická část", "0 - 2"),
+        ("Výsledky a zpracování měření", ""),
+        ("Diskuse výsledků", ""),
+        ("Závěr", ""),
+        ("Seznam použité literatury", ""),
         ("Celkem", "max. 17"),
     ]
 
