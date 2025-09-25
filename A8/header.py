@@ -127,7 +127,7 @@ def header(*, student: str, task_no: int, date: str | None = None, task_name: st
         ("Diskuse výsledků", ""),
         ("Závěr", ""),
         ("Seznam použité literatury", ""),
-        ("Celkem", "max. 17"),
+        ("Celkem", "max. 12"),
     ]
 
     yrow = table_top - 1.4*line_h
