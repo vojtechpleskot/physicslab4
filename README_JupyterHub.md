@@ -56,7 +56,7 @@ Pokud nestihnete úlohu zpracovat přímo v hodině, můžete pokračovat ve zpr
 
    <img width="350" src="images/image8.png"/>
 
-2. Exportovaný soubor se uloží do vašeho počítače, odkud ho můžete nahrát do systému praktika. Soubor není třeba nijak upravovat, odevzdáváte ho tak jak je:
+2. Exportovaný soubor se uloží do vašeho počítače, odkud ho můžete nahrát do systému praktika. Soubor není třeba nijak upravovat, odevzdáváte ho tak jak je na strance praktika.
 
    [https://physics.mff.cuni.cz/vyuka/zfp/](https://physics.mff.cuni.cz/vyuka/zfp/)
 
