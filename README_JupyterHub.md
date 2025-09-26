@@ -1,6 +1,6 @@
 # Návod pro JupyterHub
 
-## Spuštění JupyterHubu a příprava notebooku k měřené úloze+
+## Spuštění JupyterHubu a příprava notebooku k měřené úloze
 
 1. Otevřete stránku:
 
@@ -10,7 +10,7 @@
 
 3. Spusťte JupyterHub s následujícími parametry:
 
-   <img width="450" src="images/image7.png"/>
+   <img width="500" src="images/image7.png"/>
 
 4. V levém panelu otevřete složku s úlohami k Praktiku 4:
 
@@ -56,5 +56,7 @@ Pokud nestihnete úlohu zpracovat přímo v hodině, můžete pokračovat ve zpr
 
    <img width="350" src="images/image8.png"/>
 
-2. Exportovaný soubor se uloží do vašeho počítače, odkud ho můžete nahrát do systému praktika. Soubor není třeba nijak upravovat, odevzdáváte ho tak jak je.
+2. Exportovaný soubor se uloží do vašeho počítače, odkud ho můžete nahrát do systému praktika. Soubor není třeba nijak upravovat, odevzdáváte ho tak jak je:
+
+   [https://physics.mff.cuni.cz/vyuka/zfp/](https://physics.mff.cuni.cz/vyuka/zfp/)
 
