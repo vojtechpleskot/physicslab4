@@ -10,37 +10,37 @@
 
 3. Spusťte JupyterHub s následujícími parametry:
 
-   ![][images/image1]
+   ![][images/image1.png]
 
 4. V levém panelu otevřete složku s úlohami k Praktiku 4:
 
    /home/teaching/NOFY130/**\_ulohy**
 
-   ![][images/image2]
+   ![][images/image2.png]
 
 5. Najděte sloužku úlohy kterou dnes měříte, klikněte pravým tlačitkem myši a zvolte “copy”. V tomto návodu použijeme např. úlohu “A4”.
 
-   ![][images/image3]
+   ![][images/image3.png]
 
 6. Jděte zpět do složky “NOFY130” (kliknutím na NOFY130 v cestě) 
 
-   ![][images/image4]
+   ![][images/image4.png]
 
    a najděte **svoji pracovní složku**. Bude mít stejné jméno s jakým se přihlašujete do SIS. V tomto návodu “**student1**”
 
-   ![][images/image5]
+   ![][images/image5.png]
 
 7. Vložte zkopírovaný adresář úlohy do vaší pracovní složky. Po pravém kliku myši zvolíte volbu “Paste”.
 
-   ![][images/image6]
+   ![][images/image6.png]
 
 8. Nyní otevřete složku úlohy
 
-   ![][images/image7]
+   ![][images/image7.png]
 
     a vyberte příslušný jupyter notebook (soubor s příponou ipynb). Soubor se otevře v hlavním okně prohlížeče.
 
-   ![][images/image8]
+   ![][images/image8.png]
 
 ## Zpracování úlohy doma
 
@@ -54,7 +54,7 @@ Pokud nestihnete úlohu zpracovat přímo v hodině, můžete pokračovat ve zpr
 1. Pro odevzdání je třeba exportovat jupyter notebook do formátu PDF. To lze udělat přímo v JupyterHubu:  
    File → Save and Export Notebook As… → PDF
 
-   ![][images/image9]
+   ![][images/image9.png]
 
 2. Exportovaný soubor se uloží do vašeho počítače, odkud ho můžete nahrát do systému praktika. 
 
