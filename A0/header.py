@@ -9,7 +9,7 @@ from matplotlib.patches import Rectangle
 # Internal mapping from task number to task name.
 # Edit/extend as needed.
 TASK_NAMES = {
-    0: "Studium spekter záření gama polovodičovým\nspektrometrem.",
+    0: "Studium spekter gama záření polovodičovým\nspektrometrem.",
     1: "Objevování částic v detektoru ATLAS v CERN.",
     2: "Studium plynových detektorů.",
     3: "Identifikace prvků na základě jejich charakteristického\nrentgenového záření.",
