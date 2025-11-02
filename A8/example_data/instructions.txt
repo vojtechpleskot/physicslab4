@@ -1,5 +1,0 @@
-Instructions:
-The data to be processed is stored in three files:
-- "plato.txt" contains the dependence of the number of signals in the Geiger-Muller detector (last column) on the voltage (first column).
-- "absorption.txt" contains the measurements of the absorption curve. The first column contains the thickness of the last attached plate, the second column the total thickness of the absorber, and the third column the number of signals recorded. The last row then corresponds to the measurement when a thick plate was added to measure the background. A voltage of 650 V was used to measure the absorption curve.
-- "poisson.txt" contains in the third column the number of signals recorded during 765 measurements made without absorber with a measurement time of 1 s at 650 V.
