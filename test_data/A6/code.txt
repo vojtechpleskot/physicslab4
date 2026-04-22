@@ -1,0 +1,21 @@
+1) energy scan
+
+data = {'E_0'            : [x/1000 for x in [8000, 13000, 20000, 30000, 50000]], 
+        'E_dep'          : [x/1000 for x in [194.88 , 317.83 , 490.75 , 742.06 , 1240]], 
+        'E_dep_unc'      : [x/1000 for x in [0.48695, 0.62212, 0.79772, 1.03   , 1.40]],
+        'sigma_E_dep'    : [x/1000 for x in [28.02  , 37.03  , 47.54  , 61.12  , 82.31]],
+        'sigma_E_dep_unc': [x/1000 for x in [0.34554, 0.42843, 0.59638, 0.74750, 1.07]],
+        }
+
+2) linear fit E_dep vs. E_0
+
+uncomment this line:
+
+nom_ab, cov_ab = curve_fit(linear, df['E_0'], df['E_dep'], sigma=df['E_dep_unc'], absolute_sigma=True)
+
+3) fit rozliseni energie vs. E_0
+
+uncomment this line:
+
+nom_ac, cov_ac = curve_fit(resolution, df['E_0'], unumpy.nominal_values(rel_res_unc), sigma=unumpy.std_devs(rel_res_unc), absolute_sigma=True)
+

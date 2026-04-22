@@ -1,0 +1,39 @@
+1) plateau boundaries and working voltage
+
+plateau_min = 450
+plateau_max = 750
+
+working_voltage = 600
+
+2) measurement of absorption curve of beta radiation
+
+data_str = """
+d      N
+0      13556
+9.7    10336
+19.5   8466
+29.3   6906
+39     6176
+48.7   5256
+58.6   4865
+68.9   4264
+79.1   3872
+89.6   3562
+100.2  3257
+111.2  3071
+122.5  2812
+141    2321
+281    1037
+415    496
+552    240
+693.1  159
+830.1  117
+961.6  119
+1095.4 101
+"""
+
+3) files with data for Poisson distribution
+
+files = ['poisson1.txt', 'poisson2.txt', 'poisson3.txt']
+
+

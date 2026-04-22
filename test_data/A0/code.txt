@@ -1,0 +1,97 @@
+1) doplneni funkci
+
+def compton_edge(E):
+    """
+    All functions below have structure similar to the following:
+
+    Returns energy of Compton's edge for initial gamma with energy E.
+
+    Parameters: E : float or array-like of FEP(s) in keV.
+
+    Returns: CE : float or ndarray of energies of Compton's edges in keV.
+    """
+    E = np.asarray(E, dtype=float)
+    Eprime = E / (1.0 + 2.0*E/ME)   # energie of gamma after 180° scattering
+    CE = E - Eprime
+    return CE if CE.shape else float(CE)
+
+def backscatter_edge(E):
+    E = np.asarray(E, dtype=float)
+    Eprime = E / (1.0 + 2.0*E/ME)
+    return Eprime if Eprime.shape else float(Eprime)
+
+def double_compton(E):
+    E = np.asarray(E, dtype=float)
+    DE = 4*E**2 / (ME + 4*E)
+    return DE if DE.shape else float(DE)
+
+def SEP(E):
+    E = np.asarray(E, dtype=float)
+    SEP = E - ME
+    return SEP if SEP.shape else float(SEP)
+
+def DEP(E):
+    E = np.asarray(E, dtype=float)
+    DEP = E - 2*ME
+    return DEP if DEP.shape else float(DEP)
+
+
+2) StatUncE
+
+def StatUncE(FWHM, NetArea):
+    uncE = FWHM / np.sqrt(8.*np.log(2)) / np.sqrt(NetArea)
+    return uncE
+
+
+3) Radium ROI report
+
+peaks_Ra = read_roi_report("Ra226_24Sep2025.Rpt")
+
+
+4) Cs ROI report
+
+energies, counts = read_spe_with_cal("Cs137_24Sep2025.Rpt", True)
+
+5) Cs theoretical values
+
+energies, counts = read_spe_with_cal("example_Cs.Spe",False)
+
+6) NaCl ROI report
+
+energies, counts = read_spe_with_cal("NaCl_24Sep2025.Rpt", False)
+
+7) NaCl theoretical values
+
+energies, counts = read_spe_with_cal("example_NaCl.Spe", False)
+
+8) both peak reports again
+
+peaks_Cs = read_roi_report("Cs137_24Sep2025.Rpt")
+peaks_Na = read_roi_report("NaCl_24Sep2025.Rpt")
+
+3) Cs_data
+
+Cs_data = [
+    ["FEP", 661.657, 0.003, 661.64, np.sqrt(np.pow(StatUncE(1.63, 69072),2) + np.pow(0.05,2))],
+    ["Comptonova hrana", compton_edge(661.657), 0.003, 477., 3.],
+    ["Hraniční E dvojného CR", double_compton(661.657), 0.003, 558., 5.],
+    ["Hrana zpětného rozptylu", backscatter_edge(661.657), 0.003, 184., 2.],
+    ["Pozadí Bi-214", 609.321, 0.007, 609.31, np.sqrt(np.pow(StatUncE(1.46,721),2) + np.pow(0.05,2))],
+    ["Pozadí K-40", 1460.820, 0.005, 1460.72, np.sqrt(np.pow(StatUncE(1.84,346),2) + np.pow(0.05,2))]
+]
+
+4) sul_data
+
+sul_data = [
+    ["FEP2", 2754.008, 0.011, 2753.93, np.sqrt(np.pow(StatUncE(2.61, 3102),2) + np.pow(0.05,2))],
+    ["Comptonova hrana FEP2", compton_edge(2754.008), 0.011, 2520., 5.],
+    ["SEP2", SEP(2754.008), 0.011, 2242.93, np.sqrt(np.pow(StatUncE(2.97, 510),2) + np.pow(0.05,2))],
+    ["DEP2", DEP(2754.008), 0.011, 1731.95, np.sqrt(np.pow(StatUncE(2.50, 1371),2) + np.pow(0.05,2))],
+    ["FEP1", 1368.625, 0.005, 1368.56, np.sqrt(np.pow(StatUncE(2.02, 7245),2) + np.pow(0.05,2))],
+    ["Anihilační pík", 510.99895, 0.0, 510.98, np.sqrt(np.pow(StatUncE(2.35, 750),2) + np.pow(0.05,2))],
+    ["DEP1", DEP(1368.625), 0.005, 351.99, np.sqrt(np.pow(StatUncE(1.50, 158),2) + np.pow(0.05,2))],
+    ["pozadí Pb-214 ", 351.9320, 0.0021, 351.99, np.sqrt(np.pow(StatUncE(1.50, 158),2) + np.pow(0.05,2))],
+    ["Hrana zpětného rozptylu", backscatter_edge(1368.625), 0.003, 184., 2.],
+    ["Hrana zpětného rozptylu", backscatter_edge(2754.008), 0.003, 184., 2.],
+]
+

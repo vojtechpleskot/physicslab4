@@ -1,0 +1,11 @@
+1) The excell sheet with the data:
+
+df = pd.read_excel('example_data.xlsx', sheet_name=2, header=2, usecols="B:G", nrows=11)
+
+2) Intensities of the Pu lines and time of measurement:
+
+dN_238, dN_239 = 1034, 104304
+dN_238 = ufloat(dN_238, np.sqrt(dN_238))
+dN_239 = ufloat(dN_239, np.sqrt(dN_239))
+dt = ufloat(319, 0)
+

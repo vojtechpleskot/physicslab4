@@ -1,0 +1,17 @@
+1) bunka s teoretickymi zavislostmi
+
+element = "Pb"
+
+scale = {'Cd': 8.65 / 10, 'Fe': 7.86 / 10, 'Pb': 11.34 / 10}
+
+x_max = 2500.
+
+2) soubory s namerenymi hodnotami
+
+file_no_shielding = '0.txt'
+
+files = ['Cd_0104.txt', 'Cd_0210.txt', 'Cd_0312.txt', 'Cd_0516.txt',
+         'Fe_0488.txt', 'Fe_0980.txt', 'Fe_1964.txt', 'Fe_3442.txt',
+         'Pb_0104.txt', 'Pb_0200.txt', 'Pb_0318.txt', 'Pb_0426.txt', 'Pb_0936.txt']
+
+
